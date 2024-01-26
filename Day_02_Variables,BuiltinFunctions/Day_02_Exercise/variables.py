@@ -4,7 +4,6 @@
 # Day 2: 30 Days of python programming
 
 # 1.3
-import math  # PI number
 
 first_name = "Melih"
 
@@ -100,6 +99,7 @@ Floor_division = num_one // num_two
 print(Floor_division)
 
 # 2.5
+import math  # PI number
 radius = 30
 
 # 2.5 (circle area and circumference calculate)
