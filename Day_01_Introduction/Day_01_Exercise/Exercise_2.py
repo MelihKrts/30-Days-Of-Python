@@ -4,6 +4,7 @@
 
 # Number
 import math
+
 int = 100
 print(int)
 
@@ -32,23 +33,24 @@ print(("Mercury", "Venus", "Earth", "Mars"))  # planets
 print((27, 81, 9, 3))
 
 # Dictionary
-print({
-    "firstName": "Melih",
-    "lastName": "Karatas",
-    "age": 23,
-    "skiils": ["JS", "React", "Python"]
-})
+print(
+    {
+        "firstName": "Melih",
+        "lastName": "Karatas",
+        "age": 23,
+        "skiils": ["JS", "React", "Python"],
+    }
+)
 
 # Euclidian distance
 
 
 def euclidian(x1, y1, x2, y2):
-    return math.sqrt((x2 - x1)**2 + (y2 - y1)**2)
+    return math.sqrt((x2 - x1) ** 2 + (y2 - y1) ** 2)
+
 
 dot1 = (2, 3)
 dot2 = (10, 8)
 
 distance = euclidian(dot1[0], dot1[1], dot2[0], dot2[1])
 print(f"Euclidean distance between two points: {distance}")
-
-

@@ -5,13 +5,14 @@
 
 # 1.3
 import math  # PI number
+
 first_name = "Melih"
 
 # 1.4
 last_name = "Karatas"
 
 # 1.5
-fullName = first_name+' '+last_name
+fullName = first_name + " " + last_name
 
 # 1.6
 country = "Turkey"
@@ -35,7 +36,14 @@ is_true = True
 is_light_on = False
 
 # 1.13
-first_name, last_name, country, city, age, is_married = "Melih", "Karatas", "Turkey", "Manisa", 23, False
+first_name, last_name, country, city, age, is_married = (
+    "Melih",
+    "Karatas",
+    "Turkey",
+    "Manisa",
+    23,
+    False,
+)
 
 
 # Exercise Level 2 Solution
@@ -76,7 +84,7 @@ product = num_two * num_one
 print(product)
 
 # 2.4.4
-division = num_one/num_two
+division = num_one / num_two
 print(division)
 
 # 2.4.5
@@ -84,7 +92,7 @@ remainder = num_two % num_one
 print(remainder)
 
 # 2.4.6
-exp = num_one ** num_two
+exp = num_one**num_two
 print(exp)
 
 # 2.4.7
@@ -97,8 +105,8 @@ radius = 30
 # 2.5 (circle area and circumference calculate)
 radius = int(input("Enter a radius: "))
 
-area_of_circle = math.pi * radius*radius
-circum_of_circle = 2*math.pi*radius
+area_of_circle = math.pi * radius * radius
+circum_of_circle = 2 * math.pi * radius
 print("Circle area:", area_of_circle)
 print("Circle circumference:", circum_of_circle)
 
@@ -110,7 +118,7 @@ user_age = int(input("Enter a age: "))
 
 print("----------------------")
 print("First name: ", user_first_Name)
-print("Last name: " ,user_last_name)
+print("Last name: ", user_last_name)
 print("Country: ", user_country)
 print("Age: ", user_age)
 
