@@ -117,8 +117,17 @@ print(diffrence_st2)
 print(difference_st1)
 
 # Finding Symmetric Difference Between Two Sets
-st1 = {'item1', 'item2', 'item3', 'item4'}
-st2 = {'item2', 'item3'}
+st1 = {"item1", "item2", "item3", "item4"}
+st2 = {"item2", "item3"}
 print(st2.symmetric_difference(st1))
 
 # Joining Sets
+even_numbers = {0, 2, 4, 6, 8}
+odd_numbers = {1, 3, 5, 7, 9}
+result = even_numbers.isdisjoint(odd_numbers)
+print(result)
+
+python = {"p", "y", "t", "h", "o", "n"}
+dragon = {"d", "r", "a", "g", "o", "n"}
+is_join = python.isdisjoint(dragon)
+print(is_join)
