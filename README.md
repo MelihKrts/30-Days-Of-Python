@@ -11,3 +11,4 @@
 |04| [Strings](https://github.com/MelihKrts/30-Days-Of-Python/tree/main/Day_04_Strings)|
 |05| [Lists](https://github.com/MelihKrts/30-Days-Of-Python/tree/main/Day_05_Lists)|
 |06| [Tuples](https://github.com/MelihKrts/30-Days-Of-Python/tree/main/Day_06_Tuples)|
+|07| [Sets](https://github.com/MelihKrts/30-Days-Of-Python/tree/main/Day_07_Sets)|
