@@ -13,3 +13,4 @@
 |06| [Tuples](https://github.com/MelihKrts/30-Days-Of-Python/tree/main/Day_06_Tuples)|
 |07| [Sets](https://github.com/MelihKrts/30-Days-Of-Python/tree/main/Day_07_Sets)|
 |08| [Dictionaries](https://github.com/MelihKrts/30-Days-Of-Python/tree/main/Day_08_Dictionaries)|
+|09| [Conditionals](https://github.com/MelihKrts/30-Days-Of-Python/tree/main/Day_09_Conditionals)|
