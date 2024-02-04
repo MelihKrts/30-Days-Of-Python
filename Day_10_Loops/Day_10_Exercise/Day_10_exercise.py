@@ -15,6 +15,7 @@ while number < 11:
     number += 1
 
 # 1.2
+    
 for number in range(11, -1, -1):
     print("Iterate 10 to 0 For loop", number)
 
@@ -24,6 +25,7 @@ while number > -1:
     number -= 1
 
 # 1.3
+    
 n = 7
 for i in range(0, n):
     for j in range(0, i + 1):
@@ -31,6 +33,7 @@ for i in range(0, n):
     print()
 
 # 1.4
+    
 a = 8
 for i in range(0, a):
     for b in range(0, a):
@@ -43,16 +46,19 @@ for i in range(0, 11):
     print(i, "*", i, "=", i * i)
 
 # 1.6
+    
 pyt = ["Python", "Numpy", "Pandas", "Django", "Flask"]
 for pythons in pyt:
     print(pythons)
 
-# 1.9
+# 1.7
+    
 for i in range(0, 101, 2):
     print(i)
 
 
-# 1.10
+# 1.8
+    
 for i in range(0, 101, 1):
     if i % 2 == 1:
         print(i)
