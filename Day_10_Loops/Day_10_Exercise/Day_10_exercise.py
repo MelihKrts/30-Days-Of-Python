@@ -6,56 +6,56 @@
 
 # 1.1
 
-# for number in range(11):
-#     print("For loop number", number)
+for number in range(11):
+    print("For loop number", number)
 
-# number = 0
-# while number < 11:
-#     print("While loop number", number)
-#     number += 1
+number = 0
+while number < 11:
+    print("While loop number", number)
+    number += 1
 
 # 1.2
-# for number in range(11, -1, -1):
-#     print("Iterate 10 to 0 For loop", number)
+for number in range(11, -1, -1):
+    print("Iterate 10 to 0 For loop", number)
 
-# number = 10
-# while number > -1:
-#     print("Iterate 10 to 0 While loop", number)
-#     number -= 1
+number = 10
+while number > -1:
+    print("Iterate 10 to 0 While loop", number)
+    number -= 1
 
 # 1.3
 n = 7
-# for i in range(0, n):
-#     for j in range(0, i + 1):
-#         print("#", end="")
-#     print()
+for i in range(0, n):
+    for j in range(0, i + 1):
+        print("#", end="")
+    print()
 
 # 1.4
 a = 8
-# for i in range(0, a):
-#     for b in range(0, a):
-#         print("# ", end="")
-#     print()
+for i in range(0, a):
+    for b in range(0, a):
+        print("# ", end="")
+    print()
 
 # 1.5
 
-# for i in range(0, 11):
-#     print(i, "*", i, "=", i * i)
+for i in range(0, 11):
+    print(i, "*", i, "=", i * i)
 
 # 1.6
-# pyt = ["Python", "Numpy", "Pandas", "Django", "Flask"]
-# for pythons in pyt:
-#     print(pythons)
+pyt = ["Python", "Numpy", "Pandas", "Django", "Flask"]
+for pythons in pyt:
+    print(pythons)
 
 # 1.9
-# for i in range(0, 101, 2):
-#     print(i)
+for i in range(0, 101, 2):
+    print(i)
 
 
 # 1.10
-# for i in range(0, 101, 1):
-#     if i % 2 == 1:
-#         print(i)
+for i in range(0, 101, 1):
+    if i % 2 == 1:
+        print(i)
 
 
 # ------------------------------------------------------------------------------------------------------------------
