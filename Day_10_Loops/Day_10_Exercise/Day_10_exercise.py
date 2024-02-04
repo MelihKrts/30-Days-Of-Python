@@ -99,6 +99,8 @@ sys.path.append("../")
 from data import countries
 from data import countries_data
 
+# 3.1
+
 countries_with_land = [
     country for country in countries.countries if "land" in country.lower()
 ]
