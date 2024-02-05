@@ -2,82 +2,82 @@
 # Function without parameters
 
 
-# def generate_full_name():
-#     first_name = "Asabeneh"
-#     last_name = "Yetayeh"
-#     space = " "
-#     full_name = first_name + space + last_name
-#     print(full_name)
+def generate_full_name():
+    first_name = "Asabeneh"
+    last_name = "Yetayeh"
+    space = " "
+    full_name = first_name + space + last_name
+    print(full_name)
 
 
-# generate_full_name()
+generate_full_name()
 
 
-# def add_two_numbers():
-#     num_one = 2
-#     num_two = 3
-#     total = num_one + num_two
-#     print(total)
+def add_two_numbers():
+    num_one = 2
+    num_two = 3
+    total = num_one + num_two
+    print(total)
 
 
-# add_two_numbers()
+add_two_numbers()
 
 
-# def generate_full_name():
-#     first_name = "Asabeneh"
-#     last_name = "Yetayeh"
-#     space = " "
-#     full_name = first_name + space + last_name
-#     return full_name
+def generate_full_name():
+    first_name = "Asabeneh"
+    last_name = "Yetayeh"
+    space = " "
+    full_name = first_name + space + last_name
+    return full_name
 
 
-# print(generate_full_name())
+print(generate_full_name())
 
 
-# def add_two_numbers():
-#     num_one = 2
-#     num_two = 3
-#     total = num_one + num_two
-#     return total
+def add_two_numbers():
+    num_one = 2
+    num_two = 3
+    total = num_one + num_two
+    return total
 
 
-# print(add_two_numbers())
+print(add_two_numbers())
 
 # Function with Parameters
 
 # Single parameters
 
 
-# def greetings(name):
-#     message = name + ", welcome to Python for Everyonee!"
-#     return message
+def greetings(name):
+    message = name + ", welcome to Python for Everyonee!"
+    return message
 
 
-# print(greetings("Asabeneh"))
+print(greetings("Asabeneh"))
 
 
-# def add_ten(num):
-#     ten = 10
-#     return num + ten
+def add_ten(num):
+    ten = 10
+    return num + ten
 
 
-# print(add_ten(90))
+print(add_ten(90))
 
 
-# def square_number(x):
-#     return x * x
+def square_number(x):
+    return x * x
 
 
-# print(square_number(2))
+print(square_number(2))
 
 
-# def area_of_circle(r):
-#     PI = 3.14
-#     area = PI * r**2
-#     return area
+def area_of_circle(r):
+    PI = 3.14
+    area = PI * r**2
+    return area
 
 
-# print(area_of_circle(10))
+print(area_of_circle(10))
 
 
 def sum_of_numbers(n):
