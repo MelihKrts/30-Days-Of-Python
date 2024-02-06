@@ -16,3 +16,4 @@
 |09| [Conditionals](https://github.com/MelihKrts/30-Days-Of-Python/tree/main/Day_09_Conditionals)|
 |10| [Loops](https://github.com/MelihKrts/30-Days-Of-Python/tree/main/Day_10_Loops)|
 |11| [Functions](https://github.com/MelihKrts/30-Days-Of-Python/tree/main/Day_11_Functions)|
+|12| [Modules](https://github.com/MelihKrts/30-Days-Of-Python/tree/main/Day_12_Modules)|
