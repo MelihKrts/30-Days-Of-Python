@@ -1,12 +1,12 @@
 # Day 15 Python Type Errors
 
 # SyntaxError
-# print "hello world" # Programming language syntax missue
+print "hello world" # Programming language syntax missue
 
 print("Hello World")
 
 # NameError
-# print(age)  # age named variable is undefined
+print(age)  # age named variable is undefined
 age = 25
 print(age)
 
@@ -15,9 +15,9 @@ numbers = [1, 2, 3, 4, 5]
 numbers[5]  # List index starts from zero. There is no 5th index in the list
 
 # ModuleNotFoundError
-# import maths  # Ther is no maths module in the python programming language
+import maths  # Ther is no maths module in the python programming language
 
-# maths.pi
+maths.pi
 # There is no maths module in
 
 # AttributeError
