@@ -21,3 +21,4 @@
 |14| [Higher Order Functions](https://github.com/MelihKrts/30-Days-Of-Python/tree/main/Day_14_Higher_Order_Functions)|
 |15| [Python Type Errors](https://github.com/MelihKrts/30-Days-Of-Python/tree/main/Day_15_Python_Type_Errors)|
 |16| [Python Date Time](https://github.com/MelihKrts/30-Days-Of-Python/tree/main/Day_16_Python_Datetime)|
+|17| [Exception Handling](https://github.com/MelihKrts/30-Days-Of-Python/tree/main/Day_17_Exception_Handling)|
