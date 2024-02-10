@@ -1,35 +1,35 @@
 # Day 17 Exception Handling
 
-# try:
-#     print(10 + "5")
-# except:
-#     print("Something went wrong")
+try:
+    print(10 + "5")
+except:
+    print("Something went wrong")
 
-# try:
-#     name = input("Enter your name: ").capitalize()
-#     year_born = input("Year you were born: ")
-#     age = 2024 - int(year_born)
-#     print(f"You are {name}. And your age is {age}.")
-# except TypeError:
-#     print("Type error occured")
-# except ValueError:
-#     print("Value error occured")
-# except ZeroDivisionError:
-#     print("Zero division error occured")
-# else:
-#     print("I usually run with the try block")
-# finally:
-#     print("I alway run")
+try:
+    name = input("Enter your name: ").capitalize()
+    year_born = input("Year you were born: ")
+    age = 2024 - int(year_born)
+    print(f"You are {name}. And your age is {age}.")
+except TypeError:
+    print("Type error occured")
+except ValueError:
+    print("Value error occured")
+except ZeroDivisionError:
+    print("Zero division error occured")
+else:
+    print("I usually run with the try block")
+finally:
+    print("I alway run")
 
 # Shorten the about code as follows:
 
-# try:
-#     name = input("Enter your name")
-#     year_bron = input("Year you born:")
-#     age = 2024 - int(year_born)
-#     print(f"You are {name}. And your age is {age}")
-# except Exception as e:
-#     print(e)
+try:
+    name = input("Enter your name")
+    year_born = input("Year you born:")
+    age = 2024 - int(year_born)
+    print(f"You are {name}. And your age is {age}")
+except Exception as e:
+    print(e)
 
 # Packing and Unpacking Arguments in Python
 
@@ -41,12 +41,12 @@
 # Unpacking List
 
 
-# def sum_of_five_nums(a, b, c, d, e):
-#     return a + b + c + d + e
+def sum_of_five_nums(a, b, c, d, e):
+    return a + b + c + d + e
 
 
-# lst = [1, 2, 3, 4, 5]
-# print(sum_of_five_nums(lst))
+lst = [1, 2, 3, 4, 5]
+print(sum_of_five_nums(lst))
 
 
 def sum_of_five_nums(a, b, c, d, e):
