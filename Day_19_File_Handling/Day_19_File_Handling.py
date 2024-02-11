@@ -1,30 +1,30 @@
 # Day 19 File Handling
-# f = open("./reading_file_example.txt")
-# print(f)
+f = open("./reading_file_example.txt")
+print(f)
 
 # read(): read the whole text as string. If we want to limit the number of characters we want to read, we can limit it by passing int value to the read(number) method
 
-# f = open("./reading_file_example.txt")
-# txt = f.read()
-# print(type(txt))
-# print(txt)
-# f.close()
+f = open("./reading_file_example.txt")
+txt = f.read()
+print(type(txt))
+print(txt)
+f.close()
 
 # Instead of printing all the text, let us print the first 10 characters of the text file.
 
-# f = open("./reading_file_example.txt")
-# txt = f.read(10)
-# print(type(txt))
-# print(txt)
-# f.close()
+f = open("./reading_file_example.txt")
+txt = f.read(10)
+print(type(txt))
+print(txt)
+f.close()
 
 # readline(): read only the first line
 
-# f = open("./reading_file_example.txt")
-# line = f.readline()
-# print(type(line))
-# print(line)
-# f.close()
+f = open("./reading_file_example.txt")
+line = f.readline()
+print(type(line))
+print(line)
+f.close()
 
 # readlines(): read all the text line by line and returns a list of lines
 f = open("./reading_file_example.txt")
@@ -52,12 +52,12 @@ with open("./reading_file_example.txt") as f:
 # "a" append: will append to end of the file
 # "w" write: will overwrite any existing content, if the file does not exist it creates.
 
-# with open("./reading_file_example.txt", "a") as f:
-#     f.write("This text has to be appended at the end")
+with open("./reading_file_example.txt", "a") as f:
+    f.write("This text has to be appended at the end")
 
 # The method below creates a new file, if the file does not exist
-# with open("./writing_file_example.txt", "w") as f:
-#     f.write("This text will be written in a newly created file")
+with open("./writing_file_example.txt", "w") as f:
+    f.write("This text will be written in a newly created file")
 
 
 # Deleting Files
@@ -127,11 +127,11 @@ with open("./csv_example.csv") as f:
 
 
 # File xlsx
-# import xlrd # pip install xlrd
+import xlrd # pip install xlrd
 
-# excel_book = xlrd.open_workbook("sample.xls")
-# print(excel_book.nsheets)
-# print(excel_book.sheet_names)
+excel_book = xlrd.open_workbook("sample.xls")
+print(excel_book.nsheets)
+print(excel_book.sheet_names)
 
 # File XML
 import xml.etree.ElementTree as ET
