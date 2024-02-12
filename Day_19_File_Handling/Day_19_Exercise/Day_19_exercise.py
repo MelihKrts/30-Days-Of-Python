@@ -130,9 +130,9 @@ def extract_emails(file_path):
 
 
 # Example usage
-# email_addresses = extract_emails("./data/email_exchanges_big.txt")
-# if email_addresses:
-#     # pprint(email_addresses)
+email_addresses = extract_emails("./data/email_exchanges_big.txt")
+if email_addresses:
+    pprint(email_addresses)
 
 
 # 2.2
