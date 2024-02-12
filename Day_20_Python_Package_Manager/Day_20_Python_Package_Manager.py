@@ -14,28 +14,28 @@ print(np_arrs)
 np_arrs_sum = np_arr + 2
 print(np_arr)
 
-# import webbrowser
+import webbrowser
 
-# url_lists = [
-#     "http://www.python.org",
-#     "https://www.linkedin.com/in/asabeneh/",
-#     "https://github.com/Asabeneh",
-#     "https://twitter.com/Asabeneh",
-# ]
+url_lists = [
+    "http://www.python.org",
+    "https://www.linkedin.com/in/asabeneh/",
+    "https://github.com/Asabeneh",
+    "https://twitter.com/Asabeneh",
+]
 
-# for url in url_lists:
-#     webbrowser.open_new_tab(url)
+for url in url_lists:
+    webbrowser.open_new_tab(url)
 
 
 import requests
 from pprint import pprint
 
-# url = "https://www.w3.org/TR/PNG/iso_8859-1.txt"
-# response = requests.get(url)
-# print(response)
-# print(requests.codes)
-# print(response.headers)
-# print(response.text)
+url = "https://www.w3.org/TR/PNG/iso_8859-1.txt"
+response = requests.get(url)
+print(response)
+print(requests.codes)
+print(response.headers)
+print(response.text)
 
 url = "https://restcountries.com/v3.1/all"
 response = requests.get(url)
