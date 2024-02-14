@@ -25,3 +25,4 @@
 |18| [Regular Expressions](https://github.com/MelihKrts/30-Days-Of-Python/tree/main/Day_18_Regular_Expressions)|
 |19| [File Handling](https://github.com/MelihKrts/30-Days-Of-Python/tree/main/Day_19_File_Handling)|
 |20| [Python Package Manager](https://github.com/MelihKrts/30-Days-Of-Python/tree/main/Day_20_Python_Package_Manager)|
+|21| [Classes and Objects](https://github.com/MelihKrts/30-Days-Of-Python/tree/main/Day_21_Classes_and_Objects)|
