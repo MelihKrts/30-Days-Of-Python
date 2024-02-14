@@ -1,0 +1,8743 @@
+[
+    {
+        "category": "",
+        "data": [
+            {
+                "Center for Machine Learning and Intelligent Systems": "About\u00a0\n\t\tCitation Policy\u00a0\n\t\tDonate a Data Set\u00a0\n\t\tContact\n\n\n\n\n\n\n\n\n\n\n Repository\n Web\n\t\t\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\u00a0\n\t\t\n\n\n\nView ALL Data Sets"
+            }
+        ]
+    },
+    {
+        "category": "Classification",
+        "data": [
+            {
+                "622 Data Sets": "Table View\u00a0\u00a0List View"
+            },
+            {
+                "": "Abalone"
+            },
+            {
+                "": "Adult"
+            },
+            {
+                "": "Annealing"
+            },
+            {
+                "": "Anonymous Microsoft Web Data"
+            },
+            {
+                "": "Arrhythmia"
+            },
+            {
+                "": "Artificial Characters"
+            },
+            {
+                "": "Audiology (Original)"
+            },
+            {
+                "": "Audiology (Standardized)"
+            },
+            {
+                "": "Auto MPG"
+            },
+            {
+                "": "Automobile"
+            },
+            {
+                "": "Badges"
+            },
+            {
+                "": "Balance Scale"
+            },
+            {
+                "": "Balloons"
+            },
+            {
+                "": "Breast Cancer"
+            },
+            {
+                "": "Breast Cancer Wisconsin (Original)"
+            },
+            {
+                "": "Breast Cancer Wisconsin (Prognostic)"
+            },
+            {
+                "": "Breast Cancer Wisconsin (Diagnostic)"
+            },
+            {
+                "": "Pittsburgh Bridges"
+            },
+            {
+                "": "Car Evaluation"
+            },
+            {
+                "": "Census Income"
+            },
+            {
+                "": "Chess (King-Rook vs. King-Knight)"
+            },
+            {
+                "": "Chess (King-Rook vs. King-Pawn)"
+            },
+            {
+                "": "Chess (King-Rook vs. King)"
+            },
+            {
+                "": "Chess (Domain Theories)"
+            },
+            {
+                "": "Bach Chorales"
+            },
+            {
+                "": "Connect-4"
+            },
+            {
+                "": "Credit Approval"
+            },
+            {
+                "": "Japanese Credit Screening"
+            },
+            {
+                "": "Computer Hardware"
+            },
+            {
+                "": "Contraceptive Method Choice"
+            },
+            {
+                "": "Covertype"
+            },
+            {
+                "": "Cylinder Bands"
+            },
+            {
+                "": "Dermatology"
+            },
+            {
+                "": "Diabetes"
+            },
+            {
+                "": "DGP2 - The Second Data Generation Program"
+            },
+            {
+                "": "Document Understanding"
+            },
+            {
+                "": "EBL Domain Theories"
+            },
+            {
+                "": "Echocardiogram"
+            },
+            {
+                "": "Ecoli"
+            },
+            {
+                "": "Flags"
+            },
+            {
+                "": "Function Finding"
+            },
+            {
+                "": "Glass Identification"
+            },
+            {
+                "": "Haberman's Survival"
+            },
+            {
+                "": "Hayes-Roth"
+            },
+            {
+                "": "Heart Disease"
+            },
+            {
+                "": "Hepatitis"
+            },
+            {
+                "": "Horse Colic"
+            },
+            {
+                "": "ICU"
+            },
+            {
+                "": "Image Segmentation"
+            },
+            {
+                "": "Internet Advertisements"
+            },
+            {
+                "": "Ionosphere"
+            },
+            {
+                "": "Iris"
+            },
+            {
+                "": "ISOLET"
+            },
+            {
+                "": "Kinship"
+            },
+            {
+                "": "Labor Relations"
+            },
+            {
+                "": "LED Display Domain"
+            },
+            {
+                "": "Lenses"
+            },
+            {
+                "": "Letter Recognition"
+            },
+            {
+                "": "Liver Disorders"
+            },
+            {
+                "": "Logic Theorist"
+            },
+            {
+                "": "Lung Cancer"
+            },
+            {
+                "": "Lymphography"
+            },
+            {
+                "": "Mechanical Analysis"
+            },
+            {
+                "": "Meta-data"
+            },
+            {
+                "": "Mobile Robots"
+            },
+            {
+                "": "Molecular Biology (Promoter Gene Sequences)"
+            },
+            {
+                "": "Molecular Biology (Protein Secondary Structure)"
+            },
+            {
+                "": "Molecular Biology (Splice-junction Gene Sequences)"
+            },
+            {
+                "": "MONK's Problems"
+            },
+            {
+                "": "Moral Reasoner"
+            },
+            {
+                "": "Multiple Features"
+            },
+            {
+                "": "Mushroom"
+            },
+            {
+                "": "Musk (Version 1)"
+            },
+            {
+                "": "Musk (Version 2)"
+            },
+            {
+                "": "Nursery"
+            },
+            {
+                "": "Othello Domain Theory"
+            },
+            {
+                "": "Page Blocks Classification"
+            },
+            {
+                "": "Optical Recognition of Handwritten Digits"
+            },
+            {
+                "": "Pen-Based Recognition of Handwritten Digits"
+            },
+            {
+                "": "Post-Operative Patient"
+            },
+            {
+                "": "Primary Tumor"
+            },
+            {
+                "": "Prodigy"
+            },
+            {
+                "": "Qualitative Structure Activity Relationships"
+            },
+            {
+                "": "Quadruped Mammals"
+            },
+            {
+                "": "Servo"
+            },
+            {
+                "": "Shuttle Landing Control"
+            },
+            {
+                "": "Solar Flare"
+            },
+            {
+                "": "Soybean (Large)"
+            },
+            {
+                "": "Soybean (Small)"
+            },
+            {
+                "": "Challenger USA Space Shuttle O-Ring"
+            },
+            {
+                "": "Low Resolution Spectrometer"
+            },
+            {
+                "": "Spambase"
+            },
+            {
+                "": "SPECT Heart"
+            },
+            {
+                "": "SPECTF Heart"
+            },
+            {
+                "": "Sponge"
+            },
+            {
+                "": "Statlog Project"
+            },
+            {
+                "": "Student Loan Relational"
+            },
+            {
+                "": "Teaching Assistant Evaluation"
+            },
+            {
+                "": "Tic-Tac-Toe Endgame"
+            },
+            {
+                "": "Thyroid Disease"
+            },
+            {
+                "": "Trains"
+            },
+            {
+                "": "University"
+            },
+            {
+                "": "Congressional Voting Records"
+            },
+            {
+                "": "Water Treatment Plant"
+            },
+            {
+                "": "Waveform Database Generator (Version 1)"
+            },
+            {
+                "": "Waveform Database Generator (Version 2)"
+            },
+            {
+                "": "Wine"
+            },
+            {
+                "": "Yeast"
+            },
+            {
+                "": "Zoo"
+            },
+            {
+                "": "Undocumented"
+            },
+            {
+                "": "Twenty Newsgroups"
+            },
+            {
+                "": "Australian Sign Language signs"
+            },
+            {
+                "": "Australian Sign Language signs (High Quality)"
+            },
+            {
+                "": "US Census Data (1990)"
+            },
+            {
+                "": "Census-Income (KDD)"
+            },
+            {
+                "": "Coil 1999 Competition Data"
+            },
+            {
+                "": "Corel Image Features"
+            },
+            {
+                "": "E. Coli Genes"
+            },
+            {
+                "": "EEG Database"
+            },
+            {
+                "": "El Nino"
+            },
+            {
+                "": "Entree Chicago Recommendation Data"
+            },
+            {
+                "": "CMU Face Images"
+            },
+            {
+                "": "Insurance Company Benchmark (COIL 2000)"
+            },
+            {
+                "": "Internet Usage Data"
+            },
+            {
+                "": "IPUMS Census Database"
+            },
+            {
+                "": "Japanese Vowels"
+            },
+            {
+                "": "KDD Cup 1998 Data"
+            },
+            {
+                "": "KDD Cup 1999 Data"
+            },
+            {
+                "": "M. Tuberculosis Genes"
+            },
+            {
+                "": "Movie"
+            },
+            {
+                "": "MSNBC.com Anonymous Web Data"
+            },
+            {
+                "": "NSF Research Award Abstracts 1990-2003"
+            },
+            {
+                "": "Pioneer-1 Mobile Robot Data"
+            },
+            {
+                "": "Pseudo Periodic Synthetic Time Series"
+            },
+            {
+                "": "Reuters-21578 Text Categorization Collection"
+            },
+            {
+                "": "Robot Execution Failures"
+            },
+            {
+                "": "Synthetic Control Chart Time Series"
+            },
+            {
+                "": "Syskill and Webert Web Page Ratings"
+            },
+            {
+                "": "UNIX User Data"
+            },
+            {
+                "": "Volcanoes on Venus - JARtool experiment"
+            },
+            {
+                "": "Statlog (Australian Credit Approval)"
+            },
+            {
+                "": "Statlog (German Credit Data)"
+            },
+            {
+                "": "Statlog (Heart)"
+            },
+            {
+                "": "Statlog (Landsat Satellite)"
+            },
+            {
+                "": "Statlog (Image Segmentation)"
+            },
+            {
+                "": "Statlog (Shuttle)"
+            },
+            {
+                "": "Statlog (Vehicle Silhouettes)"
+            },
+            {
+                "": "Connectionist Bench (Nettalk Corpus)"
+            },
+            {
+                "": "Connectionist Bench (Sonar, Mines vs. Rocks)"
+            },
+            {
+                "": "Connectionist Bench (Vowel Recognition - Deterding Data)"
+            },
+            {
+                "": "Economic Sanctions"
+            },
+            {
+                "": "Protein Data"
+            },
+            {
+                "": "Cloud"
+            },
+            {
+                "": "CalIt2 Building People Counts"
+            },
+            {
+                "": "Dodgers Loop Sensor"
+            },
+            {
+                "": "Poker Hand"
+            },
+            {
+                "": "MAGIC Gamma Telescope"
+            },
+            {
+                "": "UJI Pen Characters"
+            },
+            {
+                "": "Mammographic Mass"
+            },
+            {
+                "": "Forest Fires"
+            },
+            {
+                "": "Reuters Transcribed Subset"
+            },
+            {
+                "": "Bag of Words"
+            },
+            {
+                "": "Concrete Compressive Strength"
+            },
+            {
+                "": "Hill-Valley"
+            },
+            {
+                "": "Arcene"
+            },
+            {
+                "": "Dexter"
+            },
+            {
+                "": "Dorothea"
+            },
+            {
+                "": "Gisette"
+            },
+            {
+                "": "Madelon"
+            },
+            {
+                "": "Ozone Level Detection"
+            },
+            {
+                "": "Abscisic Acid Signaling Network"
+            },
+            {
+                "": "Parkinsons"
+            },
+            {
+                "": "Character Trajectories"
+            },
+            {
+                "": "Blood Transfusion Service Center"
+            },
+            {
+                "": "UJI Pen Characters (Version 2)"
+            },
+            {
+                "": "Semeion Handwritten Digit"
+            },
+            {
+                "": "SECOM"
+            },
+            {
+                "": "Plants"
+            },
+            {
+                "": "Libras Movement"
+            },
+            {
+                "": "Concrete Slump Test"
+            },
+            {
+                "": "Communities and Crime"
+            },
+            {
+                "": "Acute Inflammations"
+            },
+            {
+                "": "Wine Quality"
+            },
+            {
+                "": "URL Reputation"
+            },
+            {
+                "": "p53 Mutants"
+            },
+            {
+                "": "Parkinsons Telemonitoring"
+            },
+            {
+                "": "Demospongiae"
+            },
+            {
+                "": "Opinosis Opinion \u2044 Review"
+            },
+            {
+                "": "Breast Tissue"
+            },
+            {
+                "": "Cardiotocography"
+            },
+            {
+                "": "Wall-Following Robot Navigation Data"
+            },
+            {
+                "": "Spoken Arabic Digit"
+            },
+            {
+                "": "Localization Data for Person Activity"
+            },
+            {
+                "": "AutoUniv"
+            },
+            {
+                "": "Steel Plates Faults"
+            },
+            {
+                "": "MiniBooNE particle identification"
+            },
+            {
+                "": "YearPredictionMSD"
+            },
+            {
+                "": "PEMS-SF"
+            },
+            {
+                "": "OpinRank Review Dataset"
+            },
+            {
+                "": "Relative location of CT slices on axial axis"
+            },
+            {
+                "": "Online Handwritten Assamese Characters Dataset"
+            },
+            {
+                "": "PubChem Bioassay Data"
+            },
+            {
+                "": "Record Linkage Comparison Patterns"
+            },
+            {
+                "": "Communities and Crime Unnormalized"
+            },
+            {
+                "": "Vertebral Column"
+            },
+            {
+                "": "EMG Physical Action Data Set"
+            },
+            {
+                "": "Vicon Physical Action Data Set"
+            },
+            {
+                "": "Amazon Commerce reviews set"
+            },
+            {
+                "": "Amazon Access Samples"
+            },
+            {
+                "": "Reuter_50_50"
+            },
+            {
+                "": "Farm Ads"
+            },
+            {
+                "": "DBWorld e-mails"
+            },
+            {
+                "": "KEGG Metabolic Relation Network (Directed)"
+            },
+            {
+                "": "KEGG Metabolic Reaction Network (Undirected)"
+            },
+            {
+                "": "Bank Marketing"
+            },
+            {
+                "": "YouTube Comedy Slam Preference Data"
+            },
+            {
+                "": "Gas Sensor Array Drift Dataset"
+            },
+            {
+                "": "ILPD (Indian Liver Patient Dataset)"
+            },
+            {
+                "": "OPPORTUNITY Activity Recognition"
+            },
+            {
+                "": "Nomao"
+            },
+            {
+                "": "SMS Spam Collection"
+            },
+            {
+                "": "Skin Segmentation"
+            },
+            {
+                "": "Planning Relax"
+            },
+            {
+                "": "PAMAP2 Physical Activity Monitoring"
+            },
+            {
+                "": "Restaurant & consumer data"
+            },
+            {
+                "": "CNAE-9"
+            },
+            {
+                "": "Individual household electric power consumption"
+            },
+            {
+                "": "seeds"
+            },
+            {
+                "": "Northix"
+            },
+            {
+                "": "QtyT40I10D100K"
+            },
+            {
+                "": "Legal Case Reports"
+            },
+            {
+                "": "Human Activity Recognition Using Smartphones"
+            },
+            {
+                "": "One-hundred plant species leaves data set"
+            },
+            {
+                "": "Energy efficiency"
+            },
+            {
+                "": "Yacht Hydrodynamics"
+            },
+            {
+                "": "Fertility"
+            },
+            {
+                "": "Daphnet Freezing of Gait"
+            },
+            {
+                "": "3D Road Network (North Jutland, Denmark)"
+            },
+            {
+                "": "ISTANBUL STOCK EXCHANGE"
+            },
+            {
+                "": "Buzz in social media"
+            },
+            {
+                "": "First-order theorem proving"
+            },
+            {
+                "": "Wearable Computing: Classification of Body Postures and Movements (PUC-Rio)"
+            },
+            {
+                "": "Gas sensor arrays in open sampling settings"
+            },
+            {
+                "": "Climate Model Simulation Crashes"
+            },
+            {
+                "": "MicroMass"
+            },
+            {
+                "": "QSAR biodegradation"
+            },
+            {
+                "": "BLOGGER"
+            },
+            {
+                "": "Daily and Sports Activities"
+            },
+            {
+                "": "User Knowledge Modeling"
+            },
+            {
+                "": "Reuters RCV1 RCV2 Multilingual, Multiview Text Categorization Test collection"
+            },
+            {
+                "": "NYSK"
+            },
+            {
+                "": "Turkiye Student Evaluation"
+            },
+            {
+                "": "ser Knowledge Modeling Data (Students' Knowledge Levels on DC Electrical Machines)"
+            },
+            {
+                "": "EEG Eye State"
+            },
+            {
+                "": "Physicochemical Properties of Protein Tertiary Structure"
+            },
+            {
+                "": "seismic-bumps"
+            },
+            {
+                "": "banknote authentication"
+            },
+            {
+                "": "USPTO Algorithm Challenge, run by NASA-Harvard Tournament Lab and TopCoder    Problem: Pat"
+            },
+            {
+                "": "YouTube Multiview Video Games Dataset"
+            },
+            {
+                "": "Gas Sensor Array Drift Dataset at Different Concentrations"
+            },
+            {
+                "": "Activities of Daily Living (ADLs) Recognition Using Binary Sensors"
+            },
+            {
+                "": "SkillCraft1 Master Table Dataset"
+            },
+            {
+                "": "Weight Lifting Exercises monitored with Inertial Measurement Units"
+            },
+            {
+                "": "SML2010"
+            },
+            {
+                "": "Bike Sharing Dataset"
+            },
+            {
+                "": "Predict keywords activities in a online social media"
+            },
+            {
+                "": "Thoracic Surgery Data"
+            },
+            {
+                "": "EMG dataset in Lower Limb"
+            },
+            {
+                "": "SUSY"
+            },
+            {
+                "": "HIGGS"
+            },
+            {
+                "": "Qualitative_Bankruptcy"
+            },
+            {
+                "": "LSVT Voice Rehabilitation"
+            },
+            {
+                "": "Dataset for ADL Recognition with Wrist-worn Accelerometer"
+            },
+            {
+                "": "Wilt"
+            },
+            {
+                "": "User Identification From Walking Activity"
+            },
+            {
+                "": "Activity Recognition from Single Chest-Mounted Accelerometer"
+            },
+            {
+                "": "Leaf"
+            },
+            {
+                "": "Dresses_Attribute_Sales"
+            },
+            {
+                "": "Tamilnadu Electricity Board Hourly Readings"
+            },
+            {
+                "": "Airfoil Self-Noise"
+            },
+            {
+                "": "Wholesale customers"
+            },
+            {
+                "": "Twitter Data set for Arabic Sentiment Analysis"
+            },
+            {
+                "": "Combined Cycle Power Plant"
+            },
+            {
+                "": "Urban Land Cover"
+            },
+            {
+                "": "Diabetes 130-US hospitals for years 1999-2008"
+            },
+            {
+                "": "Bach Choral Harmony"
+            },
+            {
+                "": "StoneFlakes"
+            },
+            {
+                "": "Tennis Major Tournament Match Statistics"
+            },
+            {
+                "": "Parkinson Speech Dataset with  Multiple Types of Sound Recordings"
+            },
+            {
+                "": "Gesture Phase Segmentation"
+            },
+            {
+                "": "Perfume Data"
+            },
+            {
+                "": "BlogFeedback"
+            },
+            {
+                "": "REALDISP Activity Recognition Dataset"
+            },
+            {
+                "": "Newspaper and magazine images segmentation dataset"
+            },
+            {
+                "": "AAAI 2014 Accepted Papers"
+            },
+            {
+                "": "Gas sensor array under flow modulation"
+            },
+            {
+                "": "Gas sensor array exposed to turbulent gas mixtures"
+            },
+            {
+                "": "UJIIndoorLoc"
+            },
+            {
+                "": "Sentence Classification"
+            },
+            {
+                "": "Dow Jones Index"
+            },
+            {
+                "": "sEMG for Basic Hand movements"
+            },
+            {
+                "": "AAAI 2013 Accepted Papers"
+            },
+            {
+                "": "Geographical Original of Music"
+            },
+            {
+                "": "Condition Based Maintenance of Naval Propulsion Plants"
+            },
+            {
+                "": "Grammatical Facial Expressions"
+            },
+            {
+                "": "NoisyOffice"
+            },
+            {
+                "": "MHEALTH Dataset"
+            },
+            {
+                "": "Student Performance"
+            },
+            {
+                "": "ElectricityLoadDiagrams20112014"
+            },
+            {
+                "": "Gas sensor array under dynamic gas mixtures"
+            },
+            {
+                "": "microblogPCU"
+            },
+            {
+                "": "Firm-Teacher_Clave-Direction_Classification"
+            },
+            {
+                "": "Dataset for Sensorless Drive Diagnosis"
+            },
+            {
+                "": "TV News Channel Commercial Detection Dataset"
+            },
+            {
+                "": "Phishing Websites"
+            },
+            {
+                "": "Greenhouse Gas Observing Network"
+            },
+            {
+                "": "Diabetic Retinopathy Debrecen Data Set"
+            },
+            {
+                "": "HIV-1 protease cleavage"
+            },
+            {
+                "": "Sentiment Labelled Sentences"
+            },
+            {
+                "": "Online News Popularity"
+            },
+            {
+                "": "Forest type mapping"
+            },
+            {
+                "": "wiki4HE"
+            },
+            {
+                "": "Online Video Characteristics and Transcoding Time Dataset"
+            },
+            {
+                "": "Chronic_Kidney_Disease"
+            },
+            {
+                "": "Machine Learning based ZZAlpha Ltd. Stock Recommendations 2012-2014"
+            },
+            {
+                "": "Folio"
+            },
+            {
+                "": "Taxi Service Trajectory - Prediction Challenge, ECML PKDD 2015"
+            },
+            {
+                "": "Cuff-Less Blood Pressure Estimation"
+            },
+            {
+                "": "Smartphone-Based Recognition of Human Activities and Postural Transitions"
+            },
+            {
+                "": "Mice Protein Expression"
+            },
+            {
+                "": "UJIIndoorLoc-Mag"
+            },
+            {
+                "": "Heterogeneity Activity Recognition"
+            },
+            {
+                "": "Educational Process Mining (EPM): A Learning Analytics Data Set"
+            },
+            {
+                "": "HEPMASS"
+            },
+            {
+                "": "Indoor User Movement Prediction from RSS data"
+            },
+            {
+                "": "Open University Learning Analytics dataset"
+            },
+            {
+                "": "default of credit card clients"
+            },
+            {
+                "": "Mesothelioma\u2019s disease data set"
+            },
+            {
+                "": "Online Retail"
+            },
+            {
+                "": "SIFT10M"
+            },
+            {
+                "": "GPS Trajectories"
+            },
+            {
+                "": "Detect Malacious Executable(AntiVirus)"
+            },
+            {
+                "": "Occupancy Detection"
+            },
+            {
+                "": "Improved Spiral Test Using Digitized Graphics Tablet for Monitoring Parkinson\u2019s Disease"
+            },
+            {
+                "": "News Aggregator"
+            },
+            {
+                "": "Air Quality"
+            },
+            {
+                "": "Twin gas sensor arrays"
+            },
+            {
+                "": "Gas sensors for home activity monitoring"
+            },
+            {
+                "": "Facebook Comment Volume Dataset"
+            },
+            {
+                "": "Smartphone Dataset for Human Activity Recognition (HAR) in Ambient Assisted Living (AAL)"
+            },
+            {
+                "": "Polish companies bankruptcy data"
+            },
+            {
+                "": "Activity Recognition system based on Multisensor data fusion (AReM)"
+            },
+            {
+                "": "Dota2 Games Results"
+            },
+            {
+                "": "Facebook metrics"
+            },
+            {
+                "": "UbiqLog (smartphone lifelogging)"
+            },
+            {
+                "": "NIPS Conference Papers 1987-2015"
+            },
+            {
+                "": "HTRU2"
+            },
+            {
+                "": "Drug consumption (quantified)"
+            },
+            {
+                "": "Appliances energy prediction"
+            },
+            {
+                "": "Miskolc IIS Hybrid IPS"
+            },
+            {
+                "": "KDC-4007 dataset Collection"
+            },
+            {
+                "": "Geo-Magnetic field and WLAN dataset for indoor localisation from wristband and smartphone"
+            },
+            {
+                "": "DrivFace"
+            },
+            {
+                "": "Website Phishing"
+            },
+            {
+                "": "YouTube Spam Collection"
+            },
+            {
+                "": "Beijing PM2.5 Data"
+            },
+            {
+                "": "Cargo 2000 Freight Tracking and Tracing"
+            },
+            {
+                "": "Cervical cancer (Risk Factors)"
+            },
+            {
+                "": "Quality Assessment of Digital Colposcopies"
+            },
+            {
+                "": "KASANDR"
+            },
+            {
+                "": "FMA: A Dataset For Music Analysis"
+            },
+            {
+                "": "Air quality"
+            },
+            {
+                "": "Epileptic Seizure Recognition"
+            },
+            {
+                "": "Devanagari Handwritten Character Dataset"
+            },
+            {
+                "": "Stock portfolio performance"
+            },
+            {
+                "": "MoCap Hand Postures"
+            },
+            {
+                "": "Early biomarkers of Parkinson\ufffds disease based on natural connected speech"
+            },
+            {
+                "": "Data for Software Engineering Teamwork Assessment in Education Setting"
+            },
+            {
+                "": "PM2.5 Data of Five Chinese Cities"
+            },
+            {
+                "": "Parkinson Disease Spiral Drawings Using Digitized Graphics Tablet"
+            },
+            {
+                "": "Sales_Transactions_Dataset_Weekly"
+            },
+            {
+                "": "Las Vegas Strip"
+            },
+            {
+                "": "Eco-hotel"
+            },
+            {
+                "": "MEU-Mobile KSD"
+            },
+            {
+                "": "Crowdsourced Mapping"
+            },
+            {
+                "": "gene expression cancer RNA-Seq"
+            },
+            {
+                "": "Hybrid Indoor Positioning Dataset from WiFi RSSI, Bluetooth and magnetometer"
+            },
+            {
+                "": "chestnut \u2013 LARVIC"
+            },
+            {
+                "": "Burst Header Packet (BHP) flooding attack on Optical Burst Switching (OBS) Network"
+            },
+            {
+                "": "Motion Capture Hand Postures"
+            },
+            {
+                "": "Anuran Calls (MFCCs)"
+            },
+            {
+                "": "TTC-3600: Benchmark dataset for Turkish text categorization"
+            },
+            {
+                "": "Gastrointestinal Lesions in Regular Colonoscopy"
+            },
+            {
+                "": "Daily Demand Forecasting Orders"
+            },
+            {
+                "": "Paper Reviews"
+            },
+            {
+                "": "extention of Z-Alizadeh sani dataset"
+            },
+            {
+                "": "Z-Alizadeh Sani"
+            },
+            {
+                "": "Dynamic Features of VirusShare Executables"
+            },
+            {
+                "": "IDA2016Challenge"
+            },
+            {
+                "": "DSRC Vehicle Communications"
+            },
+            {
+                "": "Mturk User-Perceived Clusters over Images"
+            },
+            {
+                "": "Character Font Images"
+            },
+            {
+                "": "DeliciousMIL: A Data Set for Multi-Label Multi-Instance Learning with Instance Labels"
+            },
+            {
+                "": "Autistic Spectrum Disorder Screening Data for Children"
+            },
+            {
+                "": "Autistic Spectrum Disorder Screening Data for Adolescent"
+            },
+            {
+                "": "APS Failure at Scania Trucks"
+            },
+            {
+                "": "Wireless Indoor Localization"
+            },
+            {
+                "": "HCC Survival"
+            },
+            {
+                "": "CSM (Conventional and Social Media Movies) Dataset 2014 and 2015"
+            },
+            {
+                "": "University of Tehran Question Dataset 2016 (UTQD.2016)"
+            },
+            {
+                "": "Autism Screening Adult"
+            },
+            {
+                "": "Activity recognition with healthy older people using a batteryless wearable sensor"
+            },
+            {
+                "": "Immunotherapy Dataset"
+            },
+            {
+                "": "Cryotherapy Dataset"
+            },
+            {
+                "": "OCT data & Color Fundus Images of Left & Right Eyes"
+            },
+            {
+                "": "Discrete Tone Image Dataset"
+            },
+            {
+                "": "News Popularity in Multiple Social Media Platforms"
+            },
+            {
+                "": "Ultrasonic flowmeter diagnostics"
+            },
+            {
+                "": "ICMLA 2014 Accepted Papers Data Set"
+            },
+            {
+                "": "BLE RSSI Dataset for Indoor localization and Navigation"
+            },
+            {
+                "": "Container Crane Controller Data Set"
+            },
+            {
+                "": "Residential Building Data Set"
+            },
+            {
+                "": "Health News in Twitter"
+            },
+            {
+                "": "chipseq"
+            },
+            {
+                "": "SGEMM GPU kernel performance"
+            },
+            {
+                "": "Repeat Consumption Matrices"
+            },
+            {
+                "": "detection_of_IoT_botnet_attacks_N_BaIoT"
+            },
+            {
+                "": "Absenteeism at work"
+            },
+            {
+                "": "SCADI"
+            },
+            {
+                "": "Condition monitoring of hydraulic systems"
+            },
+            {
+                "": "Carbon Nanotubes"
+            },
+            {
+                "": "Optical Interconnection Network"
+            },
+            {
+                "": "Sports articles for objectivity analysis"
+            },
+            {
+                "": "Breast Cancer Coimbra"
+            },
+            {
+                "": "GNFUV Unmanned Surface Vehicles Sensor Data"
+            },
+            {
+                "": "Dishonest Internet users Dataset"
+            },
+            {
+                "": "Victorian Era Authorship Attribution"
+            },
+            {
+                "": "Simulated Falls and Daily Living Activities Data Set"
+            },
+            {
+                "": "Multimodal Damage Identification for Humanitarian Computing"
+            },
+            {
+                "": "EEG Steady-State Visual Evoked Potential Signals"
+            },
+            {
+                "": "Roman Urdu Data Set"
+            },
+            {
+                "": "Avila"
+            },
+            {
+                "": "PANDOR"
+            },
+            {
+                "": "Drug Review Dataset (Druglib.com)"
+            },
+            {
+                "": "Drug Review Dataset (Drugs.com)"
+            },
+            {
+                "": "Physical Unclonable Functions"
+            },
+            {
+                "": "Superconductivty Data"
+            },
+            {
+                "": "WESAD (Wearable Stress and Affect Detection)"
+            },
+            {
+                "": "GNFUV Unmanned Surface Vehicles Sensor Data Set 2"
+            },
+            {
+                "": "Student Academics Performance"
+            },
+            {
+                "": "Online Shoppers Purchasing Intention Dataset"
+            },
+            {
+                "": "PMU-UD"
+            },
+            {
+                "": "Parkinson's Disease Classification"
+            },
+            {
+                "": "Electrical Grid Stability Simulated Data"
+            },
+            {
+                "": "Caesarian Section Classification Dataset"
+            },
+            {
+                "": "BAUM-1"
+            },
+            {
+                "": "BAUM-2"
+            },
+            {
+                "": "Audit Data"
+            },
+            {
+                "": "BuddyMove Data Set"
+            },
+            {
+                "": "Real estate valuation data set"
+            },
+            {
+                "": "Early biomarkers of Parkinson\u2019s disease based on natural connected speech Data Set"
+            },
+            {
+                "": "Somerville Happiness Survey"
+            },
+            {
+                "": "2.4 GHZ Indoor Channel Measurements"
+            },
+            {
+                "": "EMG data for gestures"
+            },
+            {
+                "": "Parking Birmingham"
+            },
+            {
+                "": "Behavior of the urban traffic of the city of Sao Paulo in Brazil"
+            },
+            {
+                "": "Travel Reviews"
+            },
+            {
+                "": "Tarvel Review Ratings"
+            },
+            {
+                "": "Rice Leaf Diseases"
+            },
+            {
+                "": "Gas sensor array temperature modulation"
+            },
+            {
+                "": "Facebook Live Sellers in Thailand"
+            },
+            {
+                "": "Parkinson Dataset with replicated acoustic features"
+            },
+            {
+                "": "Metro Interstate Traffic Volume"
+            },
+            {
+                "": "Query Analytics Workloads Dataset"
+            },
+            {
+                "": "Wave Energy Converters"
+            },
+            {
+                "": "PPG-DaLiA"
+            },
+            {
+                "": "Alcohol QCM Sensor Dataset"
+            },
+            {
+                "": "Divorce Predictors data set"
+            },
+            {
+                "": "Incident management process enriched event log"
+            },
+            {
+                "": "Opinion Corpus for Lebanese Arabic Reviews (OCLAR)"
+            },
+            {
+                "": "MEx"
+            },
+            {
+                "": "Beijing Multi-Site Air-Quality Data"
+            },
+            {
+                "": "Online Retail II"
+            },
+            {
+                "": "Hepatitis C Virus (HCV) for Egyptian patients"
+            },
+            {
+                "": "QSAR fish toxicity"
+            },
+            {
+                "": "QSAR aquatic toxicity"
+            },
+            {
+                "": "Human Activity Recognition from Continuous Ambient Sensor Data"
+            },
+            {
+                "": "WISDM Smartphone and Smartwatch Activity and Biometrics Dataset"
+            },
+            {
+                "": "QSAR oral toxicity"
+            },
+            {
+                "": "QSAR androgen receptor"
+            },
+            {
+                "": "QSAR Bioconcentration classes dataset"
+            },
+            {
+                "": "QSAR fish bioconcentration factor (BCF)"
+            },
+            {
+                "": "A study of  Asian Religious and Biblical Texts"
+            },
+            {
+                "": "Real-time Election Results: Portugal 2019"
+            },
+            {
+                "": "Bias correction of numerical prediction model temperature forecast"
+            },
+            {
+                "": "Bar Crawl: Detecting Heavy Drinking"
+            },
+            {
+                "": "Kitsune Network Attack Dataset"
+            },
+            {
+                "": "Shoulder Implant X-Ray Manufacturer Classification"
+            },
+            {
+                "": "Speaker Accent Recognition"
+            },
+            {
+                "": "Heart failure clinical records"
+            },
+            {
+                "": "Deepfakes: Medical Image Tamper Detection"
+            },
+            {
+                "": "selfBACK"
+            },
+            {
+                "": "South German Credit"
+            },
+            {
+                "": "Exasens"
+            },
+            {
+                "": "Swarm Behaviour"
+            },
+            {
+                "": "Crop mapping using fused optical-radar data set"
+            },
+            {
+                "": "BitcoinHeistRansomwareAddressDataset"
+            },
+            {
+                "": "Facebook Large Page-Page Network"
+            },
+            {
+                "": "Amphibians"
+            },
+            {
+                "": "Early stage diabetes risk prediction dataset."
+            },
+            {
+                "": "Turkish Spam V01"
+            },
+            {
+                "": "Stock keeping units"
+            },
+            {
+                "": "Demand Forecasting for a store"
+            },
+            {
+                "": "Detect Malware Types"
+            },
+            {
+                "": "Wave Energy Converters"
+            },
+            {
+                "": "Youtube cookery channels viewers comments in Hinglish"
+            },
+            {
+                "": "Pedestrian in Traffic Dataset"
+            },
+            {
+                "": "Cervical Cancer Behavior Risk"
+            },
+            {
+                "": "Sattriya_Dance_Single_Hand_Gestures Dataset"
+            },
+            {
+                "": "Divorce Predictors data set"
+            },
+            {
+                "": "3W dataset"
+            },
+            {
+                "": "Malware static and dynamic features VxHeaven and Virus Total"
+            },
+            {
+                "": "Internet Firewall Data"
+            },
+            {
+                "": "User Profiling and Abusive Language Detection Dataset"
+            },
+            {
+                "": "Estimation of obesity levels based on eating habits and physical condition"
+            },
+            {
+                "": "Rice (Cammeo and Osmancik)"
+            },
+            {
+                "": "Vehicle routing and scheduling problems"
+            },
+            {
+                "": "Algerian Forest Fires Dataset"
+            },
+            {
+                "": "Breath Metabolomics"
+            },
+            {
+                "": "Horton General Hospital"
+            },
+            {
+                "": "UrbanGB, urban road accidents coordinates labelled by the urban center"
+            },
+            {
+                "": "Gas Turbine CO and NOx Emission Data Set"
+            },
+            {
+                "": "Activity recognition using wearable physiological measurements"
+            },
+            {
+                "": "clickstream data for online shopping"
+            },
+            {
+                "": "CNNpred: CNN-based stock market prediction using a diverse set of variables"
+            },
+            {
+                "": "Apartment for rent classified"
+            },
+            {
+                "": ": Simulated Data set of Iraqi tourism places"
+            },
+            {
+                "": "Nasarian CAD Dataset"
+            },
+            {
+                "": "Monolithic Columns in Troad and Mysia Region"
+            },
+            {
+                "": "Bar Crawl: Detecting Heavy Drinking"
+            },
+            {
+                "": "Seoul Bike Sharing Demand"
+            },
+            {
+                "": "Person Classification Gait Data"
+            },
+            {
+                "": "Shill Bidding Dataset"
+            },
+            {
+                "": "Iranian Churn Dataset"
+            },
+            {
+                "": "Unmanned Aerial Vehicle (UAV) Intrusion Detection"
+            },
+            {
+                "": "Bone marrow transplant: children"
+            },
+            {
+                "": "Exasens"
+            },
+            {
+                "": "COVID-19 Surveillance"
+            },
+            {
+                "": "Refractive errors"
+            },
+            {
+                "": "Shoulder Implant X-Ray Manufacturer Classification"
+            },
+            {
+                "": "CLINC150"
+            },
+            {
+                "": "HCV data"
+            },
+            {
+                "": "Taiwanese Bankruptcy Prediction"
+            },
+            {
+                "": "South German Credit (UPDATE)"
+            },
+            {
+                "": "IIWA14-R820-Gazebo-Dataset-10Trajectories"
+            },
+            {
+                "": "Guitar Chords finger positions"
+            },
+            {
+                "": "Russian Corpus of Biographical Texts"
+            },
+            {
+                "": "Codon usage"
+            },
+            {
+                "": "Intelligent Media Accelerometer and Gyroscope (IM-AccGyro) Dataset"
+            },
+            {
+                "": "Myocardial infarction complications"
+            },
+            {
+                "": "Hungarian Chickenpox Cases"
+            },
+            {
+                "": "Simulated data for survival modelling"
+            },
+            {
+                "": "Student Performance on an entrance examination"
+            },
+            {
+                "": "Chemical Composition of Ceramic Samples"
+            },
+            {
+                "": "Labeled Text Forum Threads Dataset"
+            },
+            {
+                "": "Stock keeping units"
+            },
+            {
+                "": "BLE RSSI dataset for Indoor localization"
+            },
+            {
+                "": "Basketball dataset"
+            },
+            {
+                "": "GitHub MUSAE"
+            },
+            {
+                "": "Anticancer peptides"
+            },
+            {
+                "": "Monolithic Columns in Troad and Mysia Region"
+            },
+            {
+                "": "Gender by Name"
+            },
+            {
+                "": "Iranian Churn Dataset"
+            },
+            {
+                "": "Unmanned Aerial Vehicle (UAV) Intrusion Detection"
+            },
+            {
+                "": "Shoulder Implant Manufacture Classification"
+            },
+            {
+                "": "LastFM Asia Social Network"
+            },
+            {
+                "": "Wheat kernels"
+            },
+            {
+                "": "Productivity Prediction of Garment Employees"
+            },
+            {
+                "": "Multi-view Brain Networks"
+            },
+            {
+                "": "LastFM Asia Social Network"
+            },
+            {
+                "": "Wisesight Sentiment Corpus"
+            },
+            {
+                "": "AI4I 2020 Predictive Maintenance Dataset"
+            },
+            {
+                "": "Dry Bean Dataset"
+            },
+            {
+                "": "in-vehicle coupon recommendation"
+            },
+            {
+                "": "Gait Classification"
+            },
+            {
+                "": "Wikipedia Math Essentials"
+            },
+            {
+                "": "Wikipedia Math Essentials"
+            },
+            {
+                "": "Synchronous Machine Data Set"
+            },
+            {
+                "": "Average Localization Error (ALE) in sensor node localization process in WSNs"
+            },
+            {
+                "": "9mers from cullpdb"
+            },
+            {
+                "": "TamilSentiMix"
+            },
+            {
+                "": "Accelerometer"
+            },
+            {
+                "": "Synchronous Machine Data Set"
+            },
+            {
+                "": "Pedal Me Bicycle Deliveries"
+            },
+            {
+                "": "Turkish Headlines Dataset"
+            },
+            {
+                "": "Secondary Mushroom Dataset"
+            },
+            {
+                "": "Power consumption of Tetouan city"
+            },
+            {
+                "": "Raisin Dataset"
+            },
+            {
+                "": "Steel Industry Energy Consumption Dataset"
+            },
+            {
+                "": "Gender Gap in Spanish WP"
+            },
+            {
+                "": "Non verbal tourists data"
+            },
+            {
+                "": "Roman Urdu Sentiment Analysis Dataset (RUSAD)"
+            },
+            {
+                "": "TUANDROMD ( Tezpur University Android Malware Dataset)"
+            },
+            {
+                "": "Higher Education Students Performance Evaluation Dataset"
+            },
+            {
+                "": "Risk Factor prediction of Chronic Kidney Disease"
+            },
+            {
+                "": "Lab Test"
+            },
+            {
+                "": "Shoulder Implant Manufacture Classification"
+            },
+            {
+                "": "Rocket League Skillshots Data Set"
+            },
+            {
+                "": "Sepsis survival minimal clinical records"
+            },
+            {
+                "": "Water Quality Prediction"
+            },
+            {
+                "": "Traffic Flow Forecasting"
+            },
+            {
+                "": "sentiment analysis in Saudi Arabia about distance education during Covid-19"
+            },
+            {
+                "": "Kain Tradisional Sambas"
+            },
+            {
+                "": "Image Recognition Task Execution Times in Mobile Edge Computing"
+            },
+            {
+                "": "REWEMA"
+            },
+            {
+                "": "REJAFADA"
+            },
+            {
+                "": "Steel Industry Energy Consumption Dataset"
+            },
+            {
+                "": "Influenza outbreak event prediction via Twitter data"
+            },
+            {
+                "": "Turkish Music Emotion Dataset"
+            },
+            {
+                "": "Maternal Health Risk Data Set"
+            },
+            {
+                "": "Room Occupancy Estimation"
+            },
+            {
+                "": "Image Recognition Task Execution Times in Mobile Edge Computing"
+            }
+        ]
+    },
+    {
+        "category": "Classification",
+        "data": []
+    },
+    {
+        "category": "List View",
+        "data": [
+            {
+                "622 Data Sets": "Table View\u00a0\u00a0List View"
+            }
+        ]
+    },
+    {
+        "category": "Name",
+        "data": [
+            {
+                "": "Abalone"
+            },
+            {
+                "": "Adult"
+            },
+            {
+                "": "Annealing"
+            },
+            {
+                "": "Anonymous Microsoft Web Data"
+            },
+            {
+                "": "Arrhythmia"
+            },
+            {
+                "": "Artificial Characters"
+            },
+            {
+                "": "Audiology (Original)"
+            },
+            {
+                "": "Audiology (Standardized)"
+            },
+            {
+                "": "Auto MPG"
+            },
+            {
+                "": "Automobile"
+            },
+            {
+                "": "Badges"
+            },
+            {
+                "": "Balance Scale"
+            },
+            {
+                "": "Balloons"
+            },
+            {
+                "": "Breast Cancer"
+            },
+            {
+                "": "Breast Cancer Wisconsin (Original)"
+            },
+            {
+                "": "Breast Cancer Wisconsin (Prognostic)"
+            },
+            {
+                "": "Breast Cancer Wisconsin (Diagnostic)"
+            },
+            {
+                "": "Pittsburgh Bridges"
+            },
+            {
+                "": "Car Evaluation"
+            },
+            {
+                "": "Census Income"
+            },
+            {
+                "": "Chess (King-Rook vs. King-Knight)"
+            },
+            {
+                "": "Chess (King-Rook vs. King-Pawn)"
+            },
+            {
+                "": "Chess (King-Rook vs. King)"
+            },
+            {
+                "": "Chess (Domain Theories)"
+            },
+            {
+                "": "Bach Chorales"
+            },
+            {
+                "": "Connect-4"
+            },
+            {
+                "": "Credit Approval"
+            },
+            {
+                "": "Japanese Credit Screening"
+            },
+            {
+                "": "Computer Hardware"
+            },
+            {
+                "": "Contraceptive Method Choice"
+            },
+            {
+                "": "Covertype"
+            },
+            {
+                "": "Cylinder Bands"
+            },
+            {
+                "": "Dermatology"
+            },
+            {
+                "": "Diabetes"
+            },
+            {
+                "": "DGP2 - The Second Data Generation Program"
+            },
+            {
+                "": "Document Understanding"
+            },
+            {
+                "": "EBL Domain Theories"
+            },
+            {
+                "": "Echocardiogram"
+            },
+            {
+                "": "Ecoli"
+            },
+            {
+                "": "Flags"
+            },
+            {
+                "": "Function Finding"
+            },
+            {
+                "": "Glass Identification"
+            },
+            {
+                "": "Haberman's Survival"
+            },
+            {
+                "": "Hayes-Roth"
+            },
+            {
+                "": "Heart Disease"
+            },
+            {
+                "": "Hepatitis"
+            },
+            {
+                "": "Horse Colic"
+            },
+            {
+                "": "ICU"
+            },
+            {
+                "": "Image Segmentation"
+            },
+            {
+                "": "Internet Advertisements"
+            },
+            {
+                "": "Ionosphere"
+            },
+            {
+                "": "Iris"
+            },
+            {
+                "": "ISOLET"
+            },
+            {
+                "": "Kinship"
+            },
+            {
+                "": "Labor Relations"
+            },
+            {
+                "": "LED Display Domain"
+            },
+            {
+                "": "Lenses"
+            },
+            {
+                "": "Letter Recognition"
+            },
+            {
+                "": "Liver Disorders"
+            },
+            {
+                "": "Logic Theorist"
+            },
+            {
+                "": "Lung Cancer"
+            },
+            {
+                "": "Lymphography"
+            },
+            {
+                "": "Mechanical Analysis"
+            },
+            {
+                "": "Meta-data"
+            },
+            {
+                "": "Mobile Robots"
+            },
+            {
+                "": "Molecular Biology (Promoter Gene Sequences)"
+            },
+            {
+                "": "Molecular Biology (Protein Secondary Structure)"
+            },
+            {
+                "": "Molecular Biology (Splice-junction Gene Sequences)"
+            },
+            {
+                "": "MONK's Problems"
+            },
+            {
+                "": "Moral Reasoner"
+            },
+            {
+                "": "Multiple Features"
+            },
+            {
+                "": "Mushroom"
+            },
+            {
+                "": "Musk (Version 1)"
+            },
+            {
+                "": "Musk (Version 2)"
+            },
+            {
+                "": "Nursery"
+            },
+            {
+                "": "Othello Domain Theory"
+            },
+            {
+                "": "Page Blocks Classification"
+            },
+            {
+                "": "Optical Recognition of Handwritten Digits"
+            },
+            {
+                "": "Pen-Based Recognition of Handwritten Digits"
+            },
+            {
+                "": "Post-Operative Patient"
+            },
+            {
+                "": "Primary Tumor"
+            },
+            {
+                "": "Prodigy"
+            },
+            {
+                "": "Qualitative Structure Activity Relationships"
+            },
+            {
+                "": "Quadruped Mammals"
+            },
+            {
+                "": "Servo"
+            },
+            {
+                "": "Shuttle Landing Control"
+            },
+            {
+                "": "Solar Flare"
+            },
+            {
+                "": "Soybean (Large)"
+            },
+            {
+                "": "Soybean (Small)"
+            },
+            {
+                "": "Challenger USA Space Shuttle O-Ring"
+            },
+            {
+                "": "Low Resolution Spectrometer"
+            },
+            {
+                "": "Spambase"
+            },
+            {
+                "": "SPECT Heart"
+            },
+            {
+                "": "SPECTF Heart"
+            },
+            {
+                "": "Sponge"
+            },
+            {
+                "": "Statlog Project"
+            },
+            {
+                "": "Student Loan Relational"
+            },
+            {
+                "": "Teaching Assistant Evaluation"
+            },
+            {
+                "": "Tic-Tac-Toe Endgame"
+            },
+            {
+                "": "Thyroid Disease"
+            },
+            {
+                "": "Trains"
+            },
+            {
+                "": "University"
+            },
+            {
+                "": "Congressional Voting Records"
+            },
+            {
+                "": "Water Treatment Plant"
+            },
+            {
+                "": "Waveform Database Generator (Version 1)"
+            },
+            {
+                "": "Waveform Database Generator (Version 2)"
+            },
+            {
+                "": "Wine"
+            },
+            {
+                "": "Yeast"
+            },
+            {
+                "": "Zoo"
+            },
+            {
+                "": "Undocumented"
+            },
+            {
+                "": "Twenty Newsgroups"
+            },
+            {
+                "": "Australian Sign Language signs"
+            },
+            {
+                "": "Australian Sign Language signs (High Quality)"
+            },
+            {
+                "": "US Census Data (1990)"
+            },
+            {
+                "": "Census-Income (KDD)"
+            },
+            {
+                "": "Coil 1999 Competition Data"
+            },
+            {
+                "": "Corel Image Features"
+            },
+            {
+                "": "E. Coli Genes"
+            },
+            {
+                "": "EEG Database"
+            },
+            {
+                "": "El Nino"
+            },
+            {
+                "": "Entree Chicago Recommendation Data"
+            },
+            {
+                "": "CMU Face Images"
+            },
+            {
+                "": "Insurance Company Benchmark (COIL 2000)"
+            },
+            {
+                "": "Internet Usage Data"
+            },
+            {
+                "": "IPUMS Census Database"
+            },
+            {
+                "": "Japanese Vowels"
+            },
+            {
+                "": "KDD Cup 1998 Data"
+            },
+            {
+                "": "KDD Cup 1999 Data"
+            },
+            {
+                "": "M. Tuberculosis Genes"
+            },
+            {
+                "": "Movie"
+            },
+            {
+                "": "MSNBC.com Anonymous Web Data"
+            },
+            {
+                "": "NSF Research Award Abstracts 1990-2003"
+            },
+            {
+                "": "Pioneer-1 Mobile Robot Data"
+            },
+            {
+                "": "Pseudo Periodic Synthetic Time Series"
+            },
+            {
+                "": "Reuters-21578 Text Categorization Collection"
+            },
+            {
+                "": "Robot Execution Failures"
+            },
+            {
+                "": "Synthetic Control Chart Time Series"
+            },
+            {
+                "": "Syskill and Webert Web Page Ratings"
+            },
+            {
+                "": "UNIX User Data"
+            },
+            {
+                "": "Volcanoes on Venus - JARtool experiment"
+            },
+            {
+                "": "Statlog (Australian Credit Approval)"
+            },
+            {
+                "": "Statlog (German Credit Data)"
+            },
+            {
+                "": "Statlog (Heart)"
+            },
+            {
+                "": "Statlog (Landsat Satellite)"
+            },
+            {
+                "": "Statlog (Image Segmentation)"
+            },
+            {
+                "": "Statlog (Shuttle)"
+            },
+            {
+                "": "Statlog (Vehicle Silhouettes)"
+            },
+            {
+                "": "Connectionist Bench (Nettalk Corpus)"
+            },
+            {
+                "": "Connectionist Bench (Sonar, Mines vs. Rocks)"
+            },
+            {
+                "": "Connectionist Bench (Vowel Recognition - Deterding Data)"
+            },
+            {
+                "": "Economic Sanctions"
+            },
+            {
+                "": "Protein Data"
+            },
+            {
+                "": "Cloud"
+            },
+            {
+                "": "CalIt2 Building People Counts"
+            },
+            {
+                "": "Dodgers Loop Sensor"
+            },
+            {
+                "": "Poker Hand"
+            },
+            {
+                "": "MAGIC Gamma Telescope"
+            },
+            {
+                "": "UJI Pen Characters"
+            },
+            {
+                "": "Mammographic Mass"
+            },
+            {
+                "": "Forest Fires"
+            },
+            {
+                "": "Reuters Transcribed Subset"
+            },
+            {
+                "": "Bag of Words"
+            },
+            {
+                "": "Concrete Compressive Strength"
+            },
+            {
+                "": "Hill-Valley"
+            },
+            {
+                "": "Arcene"
+            },
+            {
+                "": "Dexter"
+            },
+            {
+                "": "Dorothea"
+            },
+            {
+                "": "Gisette"
+            },
+            {
+                "": "Madelon"
+            },
+            {
+                "": "Ozone Level Detection"
+            },
+            {
+                "": "Abscisic Acid Signaling Network"
+            },
+            {
+                "": "Parkinsons"
+            },
+            {
+                "": "Character Trajectories"
+            },
+            {
+                "": "Blood Transfusion Service Center"
+            },
+            {
+                "": "UJI Pen Characters (Version 2)"
+            },
+            {
+                "": "Semeion Handwritten Digit"
+            },
+            {
+                "": "SECOM"
+            },
+            {
+                "": "Plants"
+            },
+            {
+                "": "Libras Movement"
+            },
+            {
+                "": "Concrete Slump Test"
+            },
+            {
+                "": "Communities and Crime"
+            },
+            {
+                "": "Acute Inflammations"
+            },
+            {
+                "": "Wine Quality"
+            },
+            {
+                "": "URL Reputation"
+            },
+            {
+                "": "p53 Mutants"
+            },
+            {
+                "": "Parkinsons Telemonitoring"
+            },
+            {
+                "": "Demospongiae"
+            },
+            {
+                "": "Opinosis Opinion \u2044 Review"
+            },
+            {
+                "": "Breast Tissue"
+            },
+            {
+                "": "Cardiotocography"
+            },
+            {
+                "": "Wall-Following Robot Navigation Data"
+            },
+            {
+                "": "Spoken Arabic Digit"
+            },
+            {
+                "": "Localization Data for Person Activity"
+            },
+            {
+                "": "AutoUniv"
+            },
+            {
+                "": "Steel Plates Faults"
+            },
+            {
+                "": "MiniBooNE particle identification"
+            },
+            {
+                "": "YearPredictionMSD"
+            },
+            {
+                "": "PEMS-SF"
+            },
+            {
+                "": "OpinRank Review Dataset"
+            },
+            {
+                "": "Relative location of CT slices on axial axis"
+            },
+            {
+                "": "Online Handwritten Assamese Characters Dataset"
+            },
+            {
+                "": "PubChem Bioassay Data"
+            },
+            {
+                "": "Record Linkage Comparison Patterns"
+            },
+            {
+                "": "Communities and Crime Unnormalized"
+            },
+            {
+                "": "Vertebral Column"
+            },
+            {
+                "": "EMG Physical Action Data Set"
+            },
+            {
+                "": "Vicon Physical Action Data Set"
+            },
+            {
+                "": "Amazon Commerce reviews set"
+            },
+            {
+                "": "Amazon Access Samples"
+            },
+            {
+                "": "Reuter_50_50"
+            },
+            {
+                "": "Farm Ads"
+            },
+            {
+                "": "DBWorld e-mails"
+            },
+            {
+                "": "KEGG Metabolic Relation Network (Directed)"
+            },
+            {
+                "": "KEGG Metabolic Reaction Network (Undirected)"
+            },
+            {
+                "": "Bank Marketing"
+            },
+            {
+                "": "YouTube Comedy Slam Preference Data"
+            },
+            {
+                "": "Gas Sensor Array Drift Dataset"
+            },
+            {
+                "": "ILPD (Indian Liver Patient Dataset)"
+            },
+            {
+                "": "OPPORTUNITY Activity Recognition"
+            },
+            {
+                "": "Nomao"
+            },
+            {
+                "": "SMS Spam Collection"
+            },
+            {
+                "": "Skin Segmentation"
+            },
+            {
+                "": "Planning Relax"
+            },
+            {
+                "": "PAMAP2 Physical Activity Monitoring"
+            },
+            {
+                "": "Restaurant & consumer data"
+            },
+            {
+                "": "CNAE-9"
+            },
+            {
+                "": "Individual household electric power consumption"
+            },
+            {
+                "": "seeds"
+            },
+            {
+                "": "Northix"
+            },
+            {
+                "": "QtyT40I10D100K"
+            },
+            {
+                "": "Legal Case Reports"
+            },
+            {
+                "": "Human Activity Recognition Using Smartphones"
+            },
+            {
+                "": "One-hundred plant species leaves data set"
+            },
+            {
+                "": "Energy efficiency"
+            },
+            {
+                "": "Yacht Hydrodynamics"
+            },
+            {
+                "": "Fertility"
+            },
+            {
+                "": "Daphnet Freezing of Gait"
+            },
+            {
+                "": "3D Road Network (North Jutland, Denmark)"
+            },
+            {
+                "": "ISTANBUL STOCK EXCHANGE"
+            },
+            {
+                "": "Buzz in social media"
+            },
+            {
+                "": "First-order theorem proving"
+            },
+            {
+                "": "Wearable Computing: Classification of Body Postures and Movements (PUC-Rio)"
+            },
+            {
+                "": "Gas sensor arrays in open sampling settings"
+            },
+            {
+                "": "Climate Model Simulation Crashes"
+            },
+            {
+                "": "MicroMass"
+            },
+            {
+                "": "QSAR biodegradation"
+            },
+            {
+                "": "BLOGGER"
+            },
+            {
+                "": "Daily and Sports Activities"
+            },
+            {
+                "": "User Knowledge Modeling"
+            },
+            {
+                "": "Reuters RCV1 RCV2 Multilingual, Multiview Text Categorization Test collection"
+            },
+            {
+                "": "NYSK"
+            },
+            {
+                "": "Turkiye Student Evaluation"
+            },
+            {
+                "": "ser Knowledge Modeling Data (Students' Knowledge Levels on DC Electrical Machines)"
+            },
+            {
+                "": "EEG Eye State"
+            },
+            {
+                "": "Physicochemical Properties of Protein Tertiary Structure"
+            },
+            {
+                "": "seismic-bumps"
+            },
+            {
+                "": "banknote authentication"
+            },
+            {
+                "": "USPTO Algorithm Challenge, run by NASA-Harvard Tournament Lab and TopCoder    Problem: Pat"
+            },
+            {
+                "": "YouTube Multiview Video Games Dataset"
+            },
+            {
+                "": "Gas Sensor Array Drift Dataset at Different Concentrations"
+            },
+            {
+                "": "Activities of Daily Living (ADLs) Recognition Using Binary Sensors"
+            },
+            {
+                "": "SkillCraft1 Master Table Dataset"
+            },
+            {
+                "": "Weight Lifting Exercises monitored with Inertial Measurement Units"
+            },
+            {
+                "": "SML2010"
+            },
+            {
+                "": "Bike Sharing Dataset"
+            },
+            {
+                "": "Predict keywords activities in a online social media"
+            },
+            {
+                "": "Thoracic Surgery Data"
+            },
+            {
+                "": "EMG dataset in Lower Limb"
+            },
+            {
+                "": "SUSY"
+            },
+            {
+                "": "HIGGS"
+            },
+            {
+                "": "Qualitative_Bankruptcy"
+            },
+            {
+                "": "LSVT Voice Rehabilitation"
+            },
+            {
+                "": "Dataset for ADL Recognition with Wrist-worn Accelerometer"
+            },
+            {
+                "": "Wilt"
+            },
+            {
+                "": "User Identification From Walking Activity"
+            },
+            {
+                "": "Activity Recognition from Single Chest-Mounted Accelerometer"
+            },
+            {
+                "": "Leaf"
+            },
+            {
+                "": "Dresses_Attribute_Sales"
+            },
+            {
+                "": "Tamilnadu Electricity Board Hourly Readings"
+            },
+            {
+                "": "Airfoil Self-Noise"
+            },
+            {
+                "": "Wholesale customers"
+            },
+            {
+                "": "Twitter Data set for Arabic Sentiment Analysis"
+            },
+            {
+                "": "Combined Cycle Power Plant"
+            },
+            {
+                "": "Urban Land Cover"
+            },
+            {
+                "": "Diabetes 130-US hospitals for years 1999-2008"
+            },
+            {
+                "": "Bach Choral Harmony"
+            },
+            {
+                "": "StoneFlakes"
+            },
+            {
+                "": "Tennis Major Tournament Match Statistics"
+            },
+            {
+                "": "Parkinson Speech Dataset with  Multiple Types of Sound Recordings"
+            },
+            {
+                "": "Gesture Phase Segmentation"
+            },
+            {
+                "": "Perfume Data"
+            },
+            {
+                "": "BlogFeedback"
+            },
+            {
+                "": "REALDISP Activity Recognition Dataset"
+            },
+            {
+                "": "Newspaper and magazine images segmentation dataset"
+            },
+            {
+                "": "AAAI 2014 Accepted Papers"
+            },
+            {
+                "": "Gas sensor array under flow modulation"
+            },
+            {
+                "": "Gas sensor array exposed to turbulent gas mixtures"
+            },
+            {
+                "": "UJIIndoorLoc"
+            },
+            {
+                "": "Sentence Classification"
+            },
+            {
+                "": "Dow Jones Index"
+            },
+            {
+                "": "sEMG for Basic Hand movements"
+            },
+            {
+                "": "AAAI 2013 Accepted Papers"
+            },
+            {
+                "": "Geographical Original of Music"
+            },
+            {
+                "": "Condition Based Maintenance of Naval Propulsion Plants"
+            },
+            {
+                "": "Grammatical Facial Expressions"
+            },
+            {
+                "": "NoisyOffice"
+            },
+            {
+                "": "MHEALTH Dataset"
+            },
+            {
+                "": "Student Performance"
+            },
+            {
+                "": "ElectricityLoadDiagrams20112014"
+            },
+            {
+                "": "Gas sensor array under dynamic gas mixtures"
+            },
+            {
+                "": "microblogPCU"
+            },
+            {
+                "": "Firm-Teacher_Clave-Direction_Classification"
+            },
+            {
+                "": "Dataset for Sensorless Drive Diagnosis"
+            },
+            {
+                "": "TV News Channel Commercial Detection Dataset"
+            },
+            {
+                "": "Phishing Websites"
+            },
+            {
+                "": "Greenhouse Gas Observing Network"
+            },
+            {
+                "": "Diabetic Retinopathy Debrecen Data Set"
+            },
+            {
+                "": "HIV-1 protease cleavage"
+            },
+            {
+                "": "Sentiment Labelled Sentences"
+            },
+            {
+                "": "Online News Popularity"
+            },
+            {
+                "": "Forest type mapping"
+            },
+            {
+                "": "wiki4HE"
+            },
+            {
+                "": "Online Video Characteristics and Transcoding Time Dataset"
+            },
+            {
+                "": "Chronic_Kidney_Disease"
+            },
+            {
+                "": "Machine Learning based ZZAlpha Ltd. Stock Recommendations 2012-2014"
+            },
+            {
+                "": "Folio"
+            },
+            {
+                "": "Taxi Service Trajectory - Prediction Challenge, ECML PKDD 2015"
+            },
+            {
+                "": "Cuff-Less Blood Pressure Estimation"
+            },
+            {
+                "": "Smartphone-Based Recognition of Human Activities and Postural Transitions"
+            },
+            {
+                "": "Mice Protein Expression"
+            },
+            {
+                "": "UJIIndoorLoc-Mag"
+            },
+            {
+                "": "Heterogeneity Activity Recognition"
+            },
+            {
+                "": "Educational Process Mining (EPM): A Learning Analytics Data Set"
+            },
+            {
+                "": "HEPMASS"
+            },
+            {
+                "": "Indoor User Movement Prediction from RSS data"
+            },
+            {
+                "": "Open University Learning Analytics dataset"
+            },
+            {
+                "": "default of credit card clients"
+            },
+            {
+                "": "Mesothelioma\u2019s disease data set"
+            },
+            {
+                "": "Online Retail"
+            },
+            {
+                "": "SIFT10M"
+            },
+            {
+                "": "GPS Trajectories"
+            },
+            {
+                "": "Detect Malacious Executable(AntiVirus)"
+            },
+            {
+                "": "Occupancy Detection"
+            },
+            {
+                "": "Improved Spiral Test Using Digitized Graphics Tablet for Monitoring Parkinson\u2019s Disease"
+            },
+            {
+                "": "News Aggregator"
+            },
+            {
+                "": "Air Quality"
+            },
+            {
+                "": "Twin gas sensor arrays"
+            },
+            {
+                "": "Gas sensors for home activity monitoring"
+            },
+            {
+                "": "Facebook Comment Volume Dataset"
+            },
+            {
+                "": "Smartphone Dataset for Human Activity Recognition (HAR) in Ambient Assisted Living (AAL)"
+            },
+            {
+                "": "Polish companies bankruptcy data"
+            },
+            {
+                "": "Activity Recognition system based on Multisensor data fusion (AReM)"
+            },
+            {
+                "": "Dota2 Games Results"
+            },
+            {
+                "": "Facebook metrics"
+            },
+            {
+                "": "UbiqLog (smartphone lifelogging)"
+            },
+            {
+                "": "NIPS Conference Papers 1987-2015"
+            },
+            {
+                "": "HTRU2"
+            },
+            {
+                "": "Drug consumption (quantified)"
+            },
+            {
+                "": "Appliances energy prediction"
+            },
+            {
+                "": "Miskolc IIS Hybrid IPS"
+            },
+            {
+                "": "KDC-4007 dataset Collection"
+            },
+            {
+                "": "Geo-Magnetic field and WLAN dataset for indoor localisation from wristband and smartphone"
+            },
+            {
+                "": "DrivFace"
+            },
+            {
+                "": "Website Phishing"
+            },
+            {
+                "": "YouTube Spam Collection"
+            },
+            {
+                "": "Beijing PM2.5 Data"
+            },
+            {
+                "": "Cargo 2000 Freight Tracking and Tracing"
+            },
+            {
+                "": "Cervical cancer (Risk Factors)"
+            },
+            {
+                "": "Quality Assessment of Digital Colposcopies"
+            },
+            {
+                "": "KASANDR"
+            },
+            {
+                "": "FMA: A Dataset For Music Analysis"
+            },
+            {
+                "": "Air quality"
+            },
+            {
+                "": "Epileptic Seizure Recognition"
+            },
+            {
+                "": "Devanagari Handwritten Character Dataset"
+            },
+            {
+                "": "Stock portfolio performance"
+            },
+            {
+                "": "MoCap Hand Postures"
+            },
+            {
+                "": "Early biomarkers of Parkinson\ufffds disease based on natural connected speech"
+            },
+            {
+                "": "Data for Software Engineering Teamwork Assessment in Education Setting"
+            },
+            {
+                "": "PM2.5 Data of Five Chinese Cities"
+            },
+            {
+                "": "Parkinson Disease Spiral Drawings Using Digitized Graphics Tablet"
+            },
+            {
+                "": "Sales_Transactions_Dataset_Weekly"
+            },
+            {
+                "": "Las Vegas Strip"
+            },
+            {
+                "": "Eco-hotel"
+            },
+            {
+                "": "MEU-Mobile KSD"
+            },
+            {
+                "": "Crowdsourced Mapping"
+            },
+            {
+                "": "gene expression cancer RNA-Seq"
+            },
+            {
+                "": "Hybrid Indoor Positioning Dataset from WiFi RSSI, Bluetooth and magnetometer"
+            },
+            {
+                "": "chestnut \u2013 LARVIC"
+            },
+            {
+                "": "Burst Header Packet (BHP) flooding attack on Optical Burst Switching (OBS) Network"
+            },
+            {
+                "": "Motion Capture Hand Postures"
+            },
+            {
+                "": "Anuran Calls (MFCCs)"
+            },
+            {
+                "": "TTC-3600: Benchmark dataset for Turkish text categorization"
+            },
+            {
+                "": "Gastrointestinal Lesions in Regular Colonoscopy"
+            },
+            {
+                "": "Daily Demand Forecasting Orders"
+            },
+            {
+                "": "Paper Reviews"
+            },
+            {
+                "": "extention of Z-Alizadeh sani dataset"
+            },
+            {
+                "": "Z-Alizadeh Sani"
+            },
+            {
+                "": "Dynamic Features of VirusShare Executables"
+            },
+            {
+                "": "IDA2016Challenge"
+            },
+            {
+                "": "DSRC Vehicle Communications"
+            },
+            {
+                "": "Mturk User-Perceived Clusters over Images"
+            },
+            {
+                "": "Character Font Images"
+            },
+            {
+                "": "DeliciousMIL: A Data Set for Multi-Label Multi-Instance Learning with Instance Labels"
+            },
+            {
+                "": "Autistic Spectrum Disorder Screening Data for Children"
+            },
+            {
+                "": "Autistic Spectrum Disorder Screening Data for Adolescent"
+            },
+            {
+                "": "APS Failure at Scania Trucks"
+            },
+            {
+                "": "Wireless Indoor Localization"
+            },
+            {
+                "": "HCC Survival"
+            },
+            {
+                "": "CSM (Conventional and Social Media Movies) Dataset 2014 and 2015"
+            },
+            {
+                "": "University of Tehran Question Dataset 2016 (UTQD.2016)"
+            },
+            {
+                "": "Autism Screening Adult"
+            },
+            {
+                "": "Activity recognition with healthy older people using a batteryless wearable sensor"
+            },
+            {
+                "": "Immunotherapy Dataset"
+            },
+            {
+                "": "Cryotherapy Dataset"
+            },
+            {
+                "": "OCT data & Color Fundus Images of Left & Right Eyes"
+            },
+            {
+                "": "Discrete Tone Image Dataset"
+            },
+            {
+                "": "News Popularity in Multiple Social Media Platforms"
+            },
+            {
+                "": "Ultrasonic flowmeter diagnostics"
+            },
+            {
+                "": "ICMLA 2014 Accepted Papers Data Set"
+            },
+            {
+                "": "BLE RSSI Dataset for Indoor localization and Navigation"
+            },
+            {
+                "": "Container Crane Controller Data Set"
+            },
+            {
+                "": "Residential Building Data Set"
+            },
+            {
+                "": "Health News in Twitter"
+            },
+            {
+                "": "chipseq"
+            },
+            {
+                "": "SGEMM GPU kernel performance"
+            },
+            {
+                "": "Repeat Consumption Matrices"
+            },
+            {
+                "": "detection_of_IoT_botnet_attacks_N_BaIoT"
+            },
+            {
+                "": "Absenteeism at work"
+            },
+            {
+                "": "SCADI"
+            },
+            {
+                "": "Condition monitoring of hydraulic systems"
+            },
+            {
+                "": "Carbon Nanotubes"
+            },
+            {
+                "": "Optical Interconnection Network"
+            },
+            {
+                "": "Sports articles for objectivity analysis"
+            },
+            {
+                "": "Breast Cancer Coimbra"
+            },
+            {
+                "": "GNFUV Unmanned Surface Vehicles Sensor Data"
+            },
+            {
+                "": "Dishonest Internet users Dataset"
+            },
+            {
+                "": "Victorian Era Authorship Attribution"
+            },
+            {
+                "": "Simulated Falls and Daily Living Activities Data Set"
+            },
+            {
+                "": "Multimodal Damage Identification for Humanitarian Computing"
+            },
+            {
+                "": "EEG Steady-State Visual Evoked Potential Signals"
+            },
+            {
+                "": "Roman Urdu Data Set"
+            },
+            {
+                "": "Avila"
+            },
+            {
+                "": "PANDOR"
+            },
+            {
+                "": "Drug Review Dataset (Druglib.com)"
+            },
+            {
+                "": "Drug Review Dataset (Drugs.com)"
+            },
+            {
+                "": "Physical Unclonable Functions"
+            },
+            {
+                "": "Superconductivty Data"
+            },
+            {
+                "": "WESAD (Wearable Stress and Affect Detection)"
+            },
+            {
+                "": "GNFUV Unmanned Surface Vehicles Sensor Data Set 2"
+            },
+            {
+                "": "Student Academics Performance"
+            },
+            {
+                "": "Online Shoppers Purchasing Intention Dataset"
+            },
+            {
+                "": "PMU-UD"
+            },
+            {
+                "": "Parkinson's Disease Classification"
+            },
+            {
+                "": "Electrical Grid Stability Simulated Data"
+            },
+            {
+                "": "Caesarian Section Classification Dataset"
+            },
+            {
+                "": "BAUM-1"
+            },
+            {
+                "": "BAUM-2"
+            },
+            {
+                "": "Audit Data"
+            },
+            {
+                "": "BuddyMove Data Set"
+            },
+            {
+                "": "Real estate valuation data set"
+            },
+            {
+                "": "Early biomarkers of Parkinson\u2019s disease based on natural connected speech Data Set"
+            },
+            {
+                "": "Somerville Happiness Survey"
+            },
+            {
+                "": "2.4 GHZ Indoor Channel Measurements"
+            },
+            {
+                "": "EMG data for gestures"
+            },
+            {
+                "": "Parking Birmingham"
+            },
+            {
+                "": "Behavior of the urban traffic of the city of Sao Paulo in Brazil"
+            },
+            {
+                "": "Travel Reviews"
+            },
+            {
+                "": "Tarvel Review Ratings"
+            },
+            {
+                "": "Rice Leaf Diseases"
+            },
+            {
+                "": "Gas sensor array temperature modulation"
+            },
+            {
+                "": "Facebook Live Sellers in Thailand"
+            },
+            {
+                "": "Parkinson Dataset with replicated acoustic features"
+            },
+            {
+                "": "Metro Interstate Traffic Volume"
+            },
+            {
+                "": "Query Analytics Workloads Dataset"
+            },
+            {
+                "": "Wave Energy Converters"
+            },
+            {
+                "": "PPG-DaLiA"
+            },
+            {
+                "": "Alcohol QCM Sensor Dataset"
+            },
+            {
+                "": "Divorce Predictors data set"
+            },
+            {
+                "": "Incident management process enriched event log"
+            },
+            {
+                "": "Opinion Corpus for Lebanese Arabic Reviews (OCLAR)"
+            },
+            {
+                "": "MEx"
+            },
+            {
+                "": "Beijing Multi-Site Air-Quality Data"
+            },
+            {
+                "": "Online Retail II"
+            },
+            {
+                "": "Hepatitis C Virus (HCV) for Egyptian patients"
+            },
+            {
+                "": "QSAR fish toxicity"
+            },
+            {
+                "": "QSAR aquatic toxicity"
+            },
+            {
+                "": "Human Activity Recognition from Continuous Ambient Sensor Data"
+            },
+            {
+                "": "WISDM Smartphone and Smartwatch Activity and Biometrics Dataset"
+            },
+            {
+                "": "QSAR oral toxicity"
+            },
+            {
+                "": "QSAR androgen receptor"
+            },
+            {
+                "": "QSAR Bioconcentration classes dataset"
+            },
+            {
+                "": "QSAR fish bioconcentration factor (BCF)"
+            },
+            {
+                "": "A study of  Asian Religious and Biblical Texts"
+            },
+            {
+                "": "Real-time Election Results: Portugal 2019"
+            },
+            {
+                "": "Bias correction of numerical prediction model temperature forecast"
+            },
+            {
+                "": "Bar Crawl: Detecting Heavy Drinking"
+            },
+            {
+                "": "Kitsune Network Attack Dataset"
+            },
+            {
+                "": "Shoulder Implant X-Ray Manufacturer Classification"
+            },
+            {
+                "": "Speaker Accent Recognition"
+            },
+            {
+                "": "Heart failure clinical records"
+            },
+            {
+                "": "Deepfakes: Medical Image Tamper Detection"
+            },
+            {
+                "": "selfBACK"
+            },
+            {
+                "": "South German Credit"
+            },
+            {
+                "": "Exasens"
+            },
+            {
+                "": "Swarm Behaviour"
+            },
+            {
+                "": "Crop mapping using fused optical-radar data set"
+            },
+            {
+                "": "BitcoinHeistRansomwareAddressDataset"
+            },
+            {
+                "": "Facebook Large Page-Page Network"
+            },
+            {
+                "": "Amphibians"
+            },
+            {
+                "": "Early stage diabetes risk prediction dataset."
+            },
+            {
+                "": "Turkish Spam V01"
+            },
+            {
+                "": "Stock keeping units"
+            },
+            {
+                "": "Demand Forecasting for a store"
+            },
+            {
+                "": "Detect Malware Types"
+            },
+            {
+                "": "Wave Energy Converters"
+            },
+            {
+                "": "Youtube cookery channels viewers comments in Hinglish"
+            },
+            {
+                "": "Pedestrian in Traffic Dataset"
+            },
+            {
+                "": "Cervical Cancer Behavior Risk"
+            },
+            {
+                "": "Sattriya_Dance_Single_Hand_Gestures Dataset"
+            },
+            {
+                "": "Divorce Predictors data set"
+            },
+            {
+                "": "3W dataset"
+            },
+            {
+                "": "Malware static and dynamic features VxHeaven and Virus Total"
+            },
+            {
+                "": "Internet Firewall Data"
+            },
+            {
+                "": "User Profiling and Abusive Language Detection Dataset"
+            },
+            {
+                "": "Estimation of obesity levels based on eating habits and physical condition"
+            },
+            {
+                "": "Rice (Cammeo and Osmancik)"
+            },
+            {
+                "": "Vehicle routing and scheduling problems"
+            },
+            {
+                "": "Algerian Forest Fires Dataset"
+            },
+            {
+                "": "Breath Metabolomics"
+            },
+            {
+                "": "Horton General Hospital"
+            },
+            {
+                "": "UrbanGB, urban road accidents coordinates labelled by the urban center"
+            },
+            {
+                "": "Gas Turbine CO and NOx Emission Data Set"
+            },
+            {
+                "": "Activity recognition using wearable physiological measurements"
+            },
+            {
+                "": "clickstream data for online shopping"
+            },
+            {
+                "": "CNNpred: CNN-based stock market prediction using a diverse set of variables"
+            },
+            {
+                "": "Apartment for rent classified"
+            },
+            {
+                "": ": Simulated Data set of Iraqi tourism places"
+            },
+            {
+                "": "Nasarian CAD Dataset"
+            },
+            {
+                "": "Monolithic Columns in Troad and Mysia Region"
+            },
+            {
+                "": "Bar Crawl: Detecting Heavy Drinking"
+            },
+            {
+                "": "Seoul Bike Sharing Demand"
+            },
+            {
+                "": "Person Classification Gait Data"
+            },
+            {
+                "": "Shill Bidding Dataset"
+            },
+            {
+                "": "Iranian Churn Dataset"
+            },
+            {
+                "": "Unmanned Aerial Vehicle (UAV) Intrusion Detection"
+            },
+            {
+                "": "Bone marrow transplant: children"
+            },
+            {
+                "": "Exasens"
+            },
+            {
+                "": "COVID-19 Surveillance"
+            },
+            {
+                "": "Refractive errors"
+            },
+            {
+                "": "Shoulder Implant X-Ray Manufacturer Classification"
+            },
+            {
+                "": "CLINC150"
+            },
+            {
+                "": "HCV data"
+            },
+            {
+                "": "Taiwanese Bankruptcy Prediction"
+            },
+            {
+                "": "South German Credit (UPDATE)"
+            },
+            {
+                "": "IIWA14-R820-Gazebo-Dataset-10Trajectories"
+            },
+            {
+                "": "Guitar Chords finger positions"
+            },
+            {
+                "": "Russian Corpus of Biographical Texts"
+            },
+            {
+                "": "Codon usage"
+            },
+            {
+                "": "Intelligent Media Accelerometer and Gyroscope (IM-AccGyro) Dataset"
+            },
+            {
+                "": "Myocardial infarction complications"
+            },
+            {
+                "": "Hungarian Chickenpox Cases"
+            },
+            {
+                "": "Simulated data for survival modelling"
+            },
+            {
+                "": "Student Performance on an entrance examination"
+            },
+            {
+                "": "Chemical Composition of Ceramic Samples"
+            },
+            {
+                "": "Labeled Text Forum Threads Dataset"
+            },
+            {
+                "": "Stock keeping units"
+            },
+            {
+                "": "BLE RSSI dataset for Indoor localization"
+            },
+            {
+                "": "Basketball dataset"
+            },
+            {
+                "": "GitHub MUSAE"
+            },
+            {
+                "": "Anticancer peptides"
+            },
+            {
+                "": "Monolithic Columns in Troad and Mysia Region"
+            },
+            {
+                "": "Gender by Name"
+            },
+            {
+                "": "Iranian Churn Dataset"
+            },
+            {
+                "": "Unmanned Aerial Vehicle (UAV) Intrusion Detection"
+            },
+            {
+                "": "Shoulder Implant Manufacture Classification"
+            },
+            {
+                "": "LastFM Asia Social Network"
+            },
+            {
+                "": "Wheat kernels"
+            },
+            {
+                "": "Productivity Prediction of Garment Employees"
+            },
+            {
+                "": "Multi-view Brain Networks"
+            },
+            {
+                "": "LastFM Asia Social Network"
+            },
+            {
+                "": "Wisesight Sentiment Corpus"
+            },
+            {
+                "": "AI4I 2020 Predictive Maintenance Dataset"
+            },
+            {
+                "": "Dry Bean Dataset"
+            },
+            {
+                "": "in-vehicle coupon recommendation"
+            },
+            {
+                "": "Gait Classification"
+            },
+            {
+                "": "Wikipedia Math Essentials"
+            },
+            {
+                "": "Wikipedia Math Essentials"
+            },
+            {
+                "": "Synchronous Machine Data Set"
+            },
+            {
+                "": "Average Localization Error (ALE) in sensor node localization process in WSNs"
+            },
+            {
+                "": "9mers from cullpdb"
+            },
+            {
+                "": "TamilSentiMix"
+            },
+            {
+                "": "Accelerometer"
+            },
+            {
+                "": "Synchronous Machine Data Set"
+            },
+            {
+                "": "Pedal Me Bicycle Deliveries"
+            },
+            {
+                "": "Turkish Headlines Dataset"
+            },
+            {
+                "": "Secondary Mushroom Dataset"
+            },
+            {
+                "": "Power consumption of Tetouan city"
+            },
+            {
+                "": "Raisin Dataset"
+            },
+            {
+                "": "Steel Industry Energy Consumption Dataset"
+            },
+            {
+                "": "Gender Gap in Spanish WP"
+            },
+            {
+                "": "Non verbal tourists data"
+            },
+            {
+                "": "Roman Urdu Sentiment Analysis Dataset (RUSAD)"
+            },
+            {
+                "": "TUANDROMD ( Tezpur University Android Malware Dataset)"
+            },
+            {
+                "": "Higher Education Students Performance Evaluation Dataset"
+            },
+            {
+                "": "Risk Factor prediction of Chronic Kidney Disease"
+            },
+            {
+                "": "Lab Test"
+            },
+            {
+                "": "Shoulder Implant Manufacture Classification"
+            },
+            {
+                "": "Rocket League Skillshots Data Set"
+            },
+            {
+                "": "Sepsis survival minimal clinical records"
+            },
+            {
+                "": "Water Quality Prediction"
+            },
+            {
+                "": "Traffic Flow Forecasting"
+            },
+            {
+                "": "sentiment analysis in Saudi Arabia about distance education during Covid-19"
+            },
+            {
+                "": "Kain Tradisional Sambas"
+            },
+            {
+                "": "Image Recognition Task Execution Times in Mobile Edge Computing"
+            },
+            {
+                "": "REWEMA"
+            },
+            {
+                "": "REJAFADA"
+            },
+            {
+                "": "Steel Industry Energy Consumption Dataset"
+            },
+            {
+                "": "Influenza outbreak event prediction via Twitter data"
+            },
+            {
+                "": "Turkish Music Emotion Dataset"
+            },
+            {
+                "": "Maternal Health Risk Data Set"
+            },
+            {
+                "": "Room Occupancy Estimation"
+            },
+            {
+                "": "Image Recognition Task Execution Times in Mobile Edge Computing"
+            }
+        ]
+    },
+    {
+        "category": "",
+        "data": [
+            {
+                "": "Abalone"
+            }
+        ]
+    },
+    {
+        "category": "",
+        "data": [
+            {
+                "": "Adult"
+            }
+        ]
+    },
+    {
+        "category": "",
+        "data": [
+            {
+                "": "Annealing"
+            }
+        ]
+    },
+    {
+        "category": "",
+        "data": [
+            {
+                "": "Anonymous Microsoft Web Data"
+            }
+        ]
+    },
+    {
+        "category": "",
+        "data": [
+            {
+                "": "Arrhythmia"
+            }
+        ]
+    },
+    {
+        "category": "",
+        "data": [
+            {
+                "": "Artificial Characters"
+            }
+        ]
+    },
+    {
+        "category": "",
+        "data": [
+            {
+                "": "Audiology (Original)"
+            }
+        ]
+    },
+    {
+        "category": "",
+        "data": [
+            {
+                "": "Audiology (Standardized)"
+            }
+        ]
+    },
+    {
+        "category": "",
+        "data": [
+            {
+                "": "Auto MPG"
+            }
+        ]
+    },
+    {
+        "category": "",
+        "data": [
+            {
+                "": "Automobile"
+            }
+        ]
+    },
+    {
+        "category": "",
+        "data": [
+            {
+                "": "Badges"
+            }
+        ]
+    },
+    {
+        "category": "",
+        "data": [
+            {
+                "": "Balance Scale"
+            }
+        ]
+    },
+    {
+        "category": "",
+        "data": [
+            {
+                "": "Balloons"
+            }
+        ]
+    },
+    {
+        "category": "",
+        "data": [
+            {
+                "": "Breast Cancer"
+            }
+        ]
+    },
+    {
+        "category": "",
+        "data": [
+            {
+                "": "Breast Cancer Wisconsin (Original)"
+            }
+        ]
+    },
+    {
+        "category": "",
+        "data": [
+            {
+                "": "Breast Cancer Wisconsin (Prognostic)"
+            }
+        ]
+    },
+    {
+        "category": "",
+        "data": [
+            {
+                "": "Breast Cancer Wisconsin (Diagnostic)"
+            }
+        ]
+    },
+    {
+        "category": "",
+        "data": [
+            {
+                "": "Pittsburgh Bridges"
+            }
+        ]
+    },
+    {
+        "category": "",
+        "data": [
+            {
+                "": "Car Evaluation"
+            }
+        ]
+    },
+    {
+        "category": "",
+        "data": [
+            {
+                "": "Census Income"
+            }
+        ]
+    },
+    {
+        "category": "",
+        "data": [
+            {
+                "": "Chess (King-Rook vs. King-Knight)"
+            }
+        ]
+    },
+    {
+        "category": "",
+        "data": [
+            {
+                "": "Chess (King-Rook vs. King-Pawn)"
+            }
+        ]
+    },
+    {
+        "category": "",
+        "data": [
+            {
+                "": "Chess (King-Rook vs. King)"
+            }
+        ]
+    },
+    {
+        "category": "",
+        "data": [
+            {
+                "": "Chess (Domain Theories)"
+            }
+        ]
+    },
+    {
+        "category": "",
+        "data": [
+            {
+                "": "Bach Chorales"
+            }
+        ]
+    },
+    {
+        "category": "",
+        "data": [
+            {
+                "": "Connect-4"
+            }
+        ]
+    },
+    {
+        "category": "",
+        "data": [
+            {
+                "": "Credit Approval"
+            }
+        ]
+    },
+    {
+        "category": "",
+        "data": [
+            {
+                "": "Japanese Credit Screening"
+            }
+        ]
+    },
+    {
+        "category": "",
+        "data": [
+            {
+                "": "Computer Hardware"
+            }
+        ]
+    },
+    {
+        "category": "",
+        "data": [
+            {
+                "": "Contraceptive Method Choice"
+            }
+        ]
+    },
+    {
+        "category": "",
+        "data": [
+            {
+                "": "Covertype"
+            }
+        ]
+    },
+    {
+        "category": "",
+        "data": [
+            {
+                "": "Cylinder Bands"
+            }
+        ]
+    },
+    {
+        "category": "",
+        "data": [
+            {
+                "": "Dermatology"
+            }
+        ]
+    },
+    {
+        "category": "",
+        "data": [
+            {
+                "": "Diabetes"
+            }
+        ]
+    },
+    {
+        "category": "",
+        "data": [
+            {
+                "": "DGP2 - The Second Data Generation Program"
+            }
+        ]
+    },
+    {
+        "category": "",
+        "data": [
+            {
+                "": "Document Understanding"
+            }
+        ]
+    },
+    {
+        "category": "",
+        "data": [
+            {
+                "": "EBL Domain Theories"
+            }
+        ]
+    },
+    {
+        "category": "",
+        "data": [
+            {
+                "": "Echocardiogram"
+            }
+        ]
+    },
+    {
+        "category": "",
+        "data": [
+            {
+                "": "Ecoli"
+            }
+        ]
+    },
+    {
+        "category": "",
+        "data": [
+            {
+                "": "Flags"
+            }
+        ]
+    },
+    {
+        "category": "",
+        "data": [
+            {
+                "": "Function Finding"
+            }
+        ]
+    },
+    {
+        "category": "",
+        "data": [
+            {
+                "": "Glass Identification"
+            }
+        ]
+    },
+    {
+        "category": "",
+        "data": [
+            {
+                "": "Haberman's Survival"
+            }
+        ]
+    },
+    {
+        "category": "",
+        "data": [
+            {
+                "": "Hayes-Roth"
+            }
+        ]
+    },
+    {
+        "category": "",
+        "data": [
+            {
+                "": "Heart Disease"
+            }
+        ]
+    },
+    {
+        "category": "",
+        "data": [
+            {
+                "": "Hepatitis"
+            }
+        ]
+    },
+    {
+        "category": "",
+        "data": [
+            {
+                "": "Horse Colic"
+            }
+        ]
+    },
+    {
+        "category": "",
+        "data": [
+            {
+                "": "ICU"
+            }
+        ]
+    },
+    {
+        "category": "",
+        "data": [
+            {
+                "": "Image Segmentation"
+            }
+        ]
+    },
+    {
+        "category": "",
+        "data": [
+            {
+                "": "Internet Advertisements"
+            }
+        ]
+    },
+    {
+        "category": "",
+        "data": [
+            {
+                "": "Ionosphere"
+            }
+        ]
+    },
+    {
+        "category": "",
+        "data": [
+            {
+                "": "Iris"
+            }
+        ]
+    },
+    {
+        "category": "",
+        "data": [
+            {
+                "": "ISOLET"
+            }
+        ]
+    },
+    {
+        "category": "",
+        "data": [
+            {
+                "": "Kinship"
+            }
+        ]
+    },
+    {
+        "category": "",
+        "data": [
+            {
+                "": "Labor Relations"
+            }
+        ]
+    },
+    {
+        "category": "",
+        "data": [
+            {
+                "": "LED Display Domain"
+            }
+        ]
+    },
+    {
+        "category": "",
+        "data": [
+            {
+                "": "Lenses"
+            }
+        ]
+    },
+    {
+        "category": "",
+        "data": [
+            {
+                "": "Letter Recognition"
+            }
+        ]
+    },
+    {
+        "category": "",
+        "data": [
+            {
+                "": "Liver Disorders"
+            }
+        ]
+    },
+    {
+        "category": "",
+        "data": [
+            {
+                "": "Logic Theorist"
+            }
+        ]
+    },
+    {
+        "category": "",
+        "data": [
+            {
+                "": "Lung Cancer"
+            }
+        ]
+    },
+    {
+        "category": "",
+        "data": [
+            {
+                "": "Lymphography"
+            }
+        ]
+    },
+    {
+        "category": "",
+        "data": [
+            {
+                "": "Mechanical Analysis"
+            }
+        ]
+    },
+    {
+        "category": "",
+        "data": [
+            {
+                "": "Meta-data"
+            }
+        ]
+    },
+    {
+        "category": "",
+        "data": [
+            {
+                "": "Mobile Robots"
+            }
+        ]
+    },
+    {
+        "category": "",
+        "data": [
+            {
+                "": "Molecular Biology (Promoter Gene Sequences)"
+            }
+        ]
+    },
+    {
+        "category": "",
+        "data": [
+            {
+                "": "Molecular Biology (Protein Secondary Structure)"
+            }
+        ]
+    },
+    {
+        "category": "",
+        "data": [
+            {
+                "": "Molecular Biology (Splice-junction Gene Sequences)"
+            }
+        ]
+    },
+    {
+        "category": "",
+        "data": [
+            {
+                "": "MONK's Problems"
+            }
+        ]
+    },
+    {
+        "category": "",
+        "data": [
+            {
+                "": "Moral Reasoner"
+            }
+        ]
+    },
+    {
+        "category": "",
+        "data": [
+            {
+                "": "Multiple Features"
+            }
+        ]
+    },
+    {
+        "category": "",
+        "data": [
+            {
+                "": "Mushroom"
+            }
+        ]
+    },
+    {
+        "category": "",
+        "data": [
+            {
+                "": "Musk (Version 1)"
+            }
+        ]
+    },
+    {
+        "category": "",
+        "data": [
+            {
+                "": "Musk (Version 2)"
+            }
+        ]
+    },
+    {
+        "category": "",
+        "data": [
+            {
+                "": "Nursery"
+            }
+        ]
+    },
+    {
+        "category": "",
+        "data": [
+            {
+                "": "Othello Domain Theory"
+            }
+        ]
+    },
+    {
+        "category": "",
+        "data": [
+            {
+                "": "Page Blocks Classification"
+            }
+        ]
+    },
+    {
+        "category": "",
+        "data": [
+            {
+                "": "Optical Recognition of Handwritten Digits"
+            }
+        ]
+    },
+    {
+        "category": "",
+        "data": [
+            {
+                "": "Pen-Based Recognition of Handwritten Digits"
+            }
+        ]
+    },
+    {
+        "category": "",
+        "data": [
+            {
+                "": "Post-Operative Patient"
+            }
+        ]
+    },
+    {
+        "category": "",
+        "data": [
+            {
+                "": "Primary Tumor"
+            }
+        ]
+    },
+    {
+        "category": "",
+        "data": [
+            {
+                "": "Prodigy"
+            }
+        ]
+    },
+    {
+        "category": "",
+        "data": [
+            {
+                "": "Qualitative Structure Activity Relationships"
+            }
+        ]
+    },
+    {
+        "category": "",
+        "data": [
+            {
+                "": "Quadruped Mammals"
+            }
+        ]
+    },
+    {
+        "category": "",
+        "data": [
+            {
+                "": "Servo"
+            }
+        ]
+    },
+    {
+        "category": "",
+        "data": [
+            {
+                "": "Shuttle Landing Control"
+            }
+        ]
+    },
+    {
+        "category": "",
+        "data": [
+            {
+                "": "Solar Flare"
+            }
+        ]
+    },
+    {
+        "category": "",
+        "data": [
+            {
+                "": "Soybean (Large)"
+            }
+        ]
+    },
+    {
+        "category": "",
+        "data": [
+            {
+                "": "Soybean (Small)"
+            }
+        ]
+    },
+    {
+        "category": "",
+        "data": [
+            {
+                "": "Challenger USA Space Shuttle O-Ring"
+            }
+        ]
+    },
+    {
+        "category": "",
+        "data": [
+            {
+                "": "Low Resolution Spectrometer"
+            }
+        ]
+    },
+    {
+        "category": "",
+        "data": [
+            {
+                "": "Spambase"
+            }
+        ]
+    },
+    {
+        "category": "",
+        "data": [
+            {
+                "": "SPECT Heart"
+            }
+        ]
+    },
+    {
+        "category": "",
+        "data": [
+            {
+                "": "SPECTF Heart"
+            }
+        ]
+    },
+    {
+        "category": "",
+        "data": [
+            {
+                "": "Sponge"
+            }
+        ]
+    },
+    {
+        "category": "",
+        "data": [
+            {
+                "": "Statlog Project"
+            }
+        ]
+    },
+    {
+        "category": "",
+        "data": [
+            {
+                "": "Student Loan Relational"
+            }
+        ]
+    },
+    {
+        "category": "",
+        "data": [
+            {
+                "": "Teaching Assistant Evaluation"
+            }
+        ]
+    },
+    {
+        "category": "",
+        "data": [
+            {
+                "": "Tic-Tac-Toe Endgame"
+            }
+        ]
+    },
+    {
+        "category": "",
+        "data": [
+            {
+                "": "Thyroid Disease"
+            }
+        ]
+    },
+    {
+        "category": "",
+        "data": [
+            {
+                "": "Trains"
+            }
+        ]
+    },
+    {
+        "category": "",
+        "data": [
+            {
+                "": "University"
+            }
+        ]
+    },
+    {
+        "category": "",
+        "data": [
+            {
+                "": "Congressional Voting Records"
+            }
+        ]
+    },
+    {
+        "category": "",
+        "data": [
+            {
+                "": "Water Treatment Plant"
+            }
+        ]
+    },
+    {
+        "category": "",
+        "data": [
+            {
+                "": "Waveform Database Generator (Version 1)"
+            }
+        ]
+    },
+    {
+        "category": "",
+        "data": [
+            {
+                "": "Waveform Database Generator (Version 2)"
+            }
+        ]
+    },
+    {
+        "category": "",
+        "data": [
+            {
+                "": "Wine"
+            }
+        ]
+    },
+    {
+        "category": "",
+        "data": [
+            {
+                "": "Yeast"
+            }
+        ]
+    },
+    {
+        "category": "",
+        "data": [
+            {
+                "": "Zoo"
+            }
+        ]
+    },
+    {
+        "category": "",
+        "data": [
+            {
+                "": "Undocumented"
+            }
+        ]
+    },
+    {
+        "category": "",
+        "data": [
+            {
+                "": "Twenty Newsgroups"
+            }
+        ]
+    },
+    {
+        "category": "",
+        "data": [
+            {
+                "": "Australian Sign Language signs"
+            }
+        ]
+    },
+    {
+        "category": "",
+        "data": [
+            {
+                "": "Australian Sign Language signs (High Quality)"
+            }
+        ]
+    },
+    {
+        "category": "",
+        "data": [
+            {
+                "": "US Census Data (1990)"
+            }
+        ]
+    },
+    {
+        "category": "",
+        "data": [
+            {
+                "": "Census-Income (KDD)"
+            }
+        ]
+    },
+    {
+        "category": "",
+        "data": [
+            {
+                "": "Coil 1999 Competition Data"
+            }
+        ]
+    },
+    {
+        "category": "",
+        "data": [
+            {
+                "": "Corel Image Features"
+            }
+        ]
+    },
+    {
+        "category": "",
+        "data": [
+            {
+                "": "E. Coli Genes"
+            }
+        ]
+    },
+    {
+        "category": "",
+        "data": [
+            {
+                "": "EEG Database"
+            }
+        ]
+    },
+    {
+        "category": "",
+        "data": [
+            {
+                "": "El Nino"
+            }
+        ]
+    },
+    {
+        "category": "",
+        "data": [
+            {
+                "": "Entree Chicago Recommendation Data"
+            }
+        ]
+    },
+    {
+        "category": "",
+        "data": [
+            {
+                "": "CMU Face Images"
+            }
+        ]
+    },
+    {
+        "category": "",
+        "data": [
+            {
+                "": "Insurance Company Benchmark (COIL 2000)"
+            }
+        ]
+    },
+    {
+        "category": "",
+        "data": [
+            {
+                "": "Internet Usage Data"
+            }
+        ]
+    },
+    {
+        "category": "",
+        "data": [
+            {
+                "": "IPUMS Census Database"
+            }
+        ]
+    },
+    {
+        "category": "",
+        "data": [
+            {
+                "": "Japanese Vowels"
+            }
+        ]
+    },
+    {
+        "category": "",
+        "data": [
+            {
+                "": "KDD Cup 1998 Data"
+            }
+        ]
+    },
+    {
+        "category": "",
+        "data": [
+            {
+                "": "KDD Cup 1999 Data"
+            }
+        ]
+    },
+    {
+        "category": "",
+        "data": [
+            {
+                "": "M. Tuberculosis Genes"
+            }
+        ]
+    },
+    {
+        "category": "",
+        "data": [
+            {
+                "": "Movie"
+            }
+        ]
+    },
+    {
+        "category": "",
+        "data": [
+            {
+                "": "MSNBC.com Anonymous Web Data"
+            }
+        ]
+    },
+    {
+        "category": "",
+        "data": [
+            {
+                "": "NSF Research Award Abstracts 1990-2003"
+            }
+        ]
+    },
+    {
+        "category": "",
+        "data": [
+            {
+                "": "Pioneer-1 Mobile Robot Data"
+            }
+        ]
+    },
+    {
+        "category": "",
+        "data": [
+            {
+                "": "Pseudo Periodic Synthetic Time Series"
+            }
+        ]
+    },
+    {
+        "category": "",
+        "data": [
+            {
+                "": "Reuters-21578 Text Categorization Collection"
+            }
+        ]
+    },
+    {
+        "category": "",
+        "data": [
+            {
+                "": "Robot Execution Failures"
+            }
+        ]
+    },
+    {
+        "category": "",
+        "data": [
+            {
+                "": "Synthetic Control Chart Time Series"
+            }
+        ]
+    },
+    {
+        "category": "",
+        "data": [
+            {
+                "": "Syskill and Webert Web Page Ratings"
+            }
+        ]
+    },
+    {
+        "category": "",
+        "data": [
+            {
+                "": "UNIX User Data"
+            }
+        ]
+    },
+    {
+        "category": "",
+        "data": [
+            {
+                "": "Volcanoes on Venus - JARtool experiment"
+            }
+        ]
+    },
+    {
+        "category": "",
+        "data": [
+            {
+                "": "Statlog (Australian Credit Approval)"
+            }
+        ]
+    },
+    {
+        "category": "",
+        "data": [
+            {
+                "": "Statlog (German Credit Data)"
+            }
+        ]
+    },
+    {
+        "category": "",
+        "data": [
+            {
+                "": "Statlog (Heart)"
+            }
+        ]
+    },
+    {
+        "category": "",
+        "data": [
+            {
+                "": "Statlog (Landsat Satellite)"
+            }
+        ]
+    },
+    {
+        "category": "",
+        "data": [
+            {
+                "": "Statlog (Image Segmentation)"
+            }
+        ]
+    },
+    {
+        "category": "",
+        "data": [
+            {
+                "": "Statlog (Shuttle)"
+            }
+        ]
+    },
+    {
+        "category": "",
+        "data": [
+            {
+                "": "Statlog (Vehicle Silhouettes)"
+            }
+        ]
+    },
+    {
+        "category": "",
+        "data": [
+            {
+                "": "Connectionist Bench (Nettalk Corpus)"
+            }
+        ]
+    },
+    {
+        "category": "",
+        "data": [
+            {
+                "": "Connectionist Bench (Sonar, Mines vs. Rocks)"
+            }
+        ]
+    },
+    {
+        "category": "",
+        "data": [
+            {
+                "": "Connectionist Bench (Vowel Recognition - Deterding Data)"
+            }
+        ]
+    },
+    {
+        "category": "",
+        "data": [
+            {
+                "": "Economic Sanctions"
+            }
+        ]
+    },
+    {
+        "category": "",
+        "data": [
+            {
+                "": "Protein Data"
+            }
+        ]
+    },
+    {
+        "category": "",
+        "data": [
+            {
+                "": "Cloud"
+            }
+        ]
+    },
+    {
+        "category": "",
+        "data": [
+            {
+                "": "CalIt2 Building People Counts"
+            }
+        ]
+    },
+    {
+        "category": "",
+        "data": [
+            {
+                "": "Dodgers Loop Sensor"
+            }
+        ]
+    },
+    {
+        "category": "",
+        "data": [
+            {
+                "": "Poker Hand"
+            }
+        ]
+    },
+    {
+        "category": "",
+        "data": [
+            {
+                "": "MAGIC Gamma Telescope"
+            }
+        ]
+    },
+    {
+        "category": "",
+        "data": [
+            {
+                "": "UJI Pen Characters"
+            }
+        ]
+    },
+    {
+        "category": "",
+        "data": [
+            {
+                "": "Mammographic Mass"
+            }
+        ]
+    },
+    {
+        "category": "",
+        "data": [
+            {
+                "": "Forest Fires"
+            }
+        ]
+    },
+    {
+        "category": "",
+        "data": [
+            {
+                "": "Reuters Transcribed Subset"
+            }
+        ]
+    },
+    {
+        "category": "",
+        "data": [
+            {
+                "": "Bag of Words"
+            }
+        ]
+    },
+    {
+        "category": "",
+        "data": [
+            {
+                "": "Concrete Compressive Strength"
+            }
+        ]
+    },
+    {
+        "category": "",
+        "data": [
+            {
+                "": "Hill-Valley"
+            }
+        ]
+    },
+    {
+        "category": "",
+        "data": [
+            {
+                "": "Arcene"
+            }
+        ]
+    },
+    {
+        "category": "",
+        "data": [
+            {
+                "": "Dexter"
+            }
+        ]
+    },
+    {
+        "category": "",
+        "data": [
+            {
+                "": "Dorothea"
+            }
+        ]
+    },
+    {
+        "category": "",
+        "data": [
+            {
+                "": "Gisette"
+            }
+        ]
+    },
+    {
+        "category": "",
+        "data": [
+            {
+                "": "Madelon"
+            }
+        ]
+    },
+    {
+        "category": "",
+        "data": [
+            {
+                "": "Ozone Level Detection"
+            }
+        ]
+    },
+    {
+        "category": "",
+        "data": [
+            {
+                "": "Abscisic Acid Signaling Network"
+            }
+        ]
+    },
+    {
+        "category": "",
+        "data": [
+            {
+                "": "Parkinsons"
+            }
+        ]
+    },
+    {
+        "category": "",
+        "data": [
+            {
+                "": "Character Trajectories"
+            }
+        ]
+    },
+    {
+        "category": "",
+        "data": [
+            {
+                "": "Blood Transfusion Service Center"
+            }
+        ]
+    },
+    {
+        "category": "",
+        "data": [
+            {
+                "": "UJI Pen Characters (Version 2)"
+            }
+        ]
+    },
+    {
+        "category": "",
+        "data": [
+            {
+                "": "Semeion Handwritten Digit"
+            }
+        ]
+    },
+    {
+        "category": "",
+        "data": [
+            {
+                "": "SECOM"
+            }
+        ]
+    },
+    {
+        "category": "",
+        "data": [
+            {
+                "": "Plants"
+            }
+        ]
+    },
+    {
+        "category": "",
+        "data": [
+            {
+                "": "Libras Movement"
+            }
+        ]
+    },
+    {
+        "category": "",
+        "data": [
+            {
+                "": "Concrete Slump Test"
+            }
+        ]
+    },
+    {
+        "category": "",
+        "data": [
+            {
+                "": "Communities and Crime"
+            }
+        ]
+    },
+    {
+        "category": "",
+        "data": [
+            {
+                "": "Acute Inflammations"
+            }
+        ]
+    },
+    {
+        "category": "",
+        "data": [
+            {
+                "": "Wine Quality"
+            }
+        ]
+    },
+    {
+        "category": "",
+        "data": [
+            {
+                "": "URL Reputation"
+            }
+        ]
+    },
+    {
+        "category": "",
+        "data": [
+            {
+                "": "p53 Mutants"
+            }
+        ]
+    },
+    {
+        "category": "",
+        "data": [
+            {
+                "": "Parkinsons Telemonitoring"
+            }
+        ]
+    },
+    {
+        "category": "",
+        "data": [
+            {
+                "": "Demospongiae"
+            }
+        ]
+    },
+    {
+        "category": "",
+        "data": [
+            {
+                "": "Opinosis Opinion \u2044 Review"
+            }
+        ]
+    },
+    {
+        "category": "",
+        "data": [
+            {
+                "": "Breast Tissue"
+            }
+        ]
+    },
+    {
+        "category": "",
+        "data": [
+            {
+                "": "Cardiotocography"
+            }
+        ]
+    },
+    {
+        "category": "",
+        "data": [
+            {
+                "": "Wall-Following Robot Navigation Data"
+            }
+        ]
+    },
+    {
+        "category": "",
+        "data": [
+            {
+                "": "Spoken Arabic Digit"
+            }
+        ]
+    },
+    {
+        "category": "",
+        "data": [
+            {
+                "": "Localization Data for Person Activity"
+            }
+        ]
+    },
+    {
+        "category": "",
+        "data": [
+            {
+                "": "AutoUniv"
+            }
+        ]
+    },
+    {
+        "category": "",
+        "data": [
+            {
+                "": "Steel Plates Faults"
+            }
+        ]
+    },
+    {
+        "category": "",
+        "data": [
+            {
+                "": "MiniBooNE particle identification"
+            }
+        ]
+    },
+    {
+        "category": "",
+        "data": [
+            {
+                "": "YearPredictionMSD"
+            }
+        ]
+    },
+    {
+        "category": "",
+        "data": [
+            {
+                "": "PEMS-SF"
+            }
+        ]
+    },
+    {
+        "category": "",
+        "data": [
+            {
+                "": "OpinRank Review Dataset"
+            }
+        ]
+    },
+    {
+        "category": "",
+        "data": [
+            {
+                "": "Relative location of CT slices on axial axis"
+            }
+        ]
+    },
+    {
+        "category": "",
+        "data": [
+            {
+                "": "Online Handwritten Assamese Characters Dataset"
+            }
+        ]
+    },
+    {
+        "category": "",
+        "data": [
+            {
+                "": "PubChem Bioassay Data"
+            }
+        ]
+    },
+    {
+        "category": "",
+        "data": [
+            {
+                "": "Record Linkage Comparison Patterns"
+            }
+        ]
+    },
+    {
+        "category": "",
+        "data": [
+            {
+                "": "Communities and Crime Unnormalized"
+            }
+        ]
+    },
+    {
+        "category": "",
+        "data": [
+            {
+                "": "Vertebral Column"
+            }
+        ]
+    },
+    {
+        "category": "",
+        "data": [
+            {
+                "": "EMG Physical Action Data Set"
+            }
+        ]
+    },
+    {
+        "category": "",
+        "data": [
+            {
+                "": "Vicon Physical Action Data Set"
+            }
+        ]
+    },
+    {
+        "category": "",
+        "data": [
+            {
+                "": "Amazon Commerce reviews set"
+            }
+        ]
+    },
+    {
+        "category": "",
+        "data": [
+            {
+                "": "Amazon Access Samples"
+            }
+        ]
+    },
+    {
+        "category": "",
+        "data": [
+            {
+                "": "Reuter_50_50"
+            }
+        ]
+    },
+    {
+        "category": "",
+        "data": [
+            {
+                "": "Farm Ads"
+            }
+        ]
+    },
+    {
+        "category": "",
+        "data": [
+            {
+                "": "DBWorld e-mails"
+            }
+        ]
+    },
+    {
+        "category": "",
+        "data": [
+            {
+                "": "KEGG Metabolic Relation Network (Directed)"
+            }
+        ]
+    },
+    {
+        "category": "",
+        "data": [
+            {
+                "": "KEGG Metabolic Reaction Network (Undirected)"
+            }
+        ]
+    },
+    {
+        "category": "",
+        "data": [
+            {
+                "": "Bank Marketing"
+            }
+        ]
+    },
+    {
+        "category": "",
+        "data": [
+            {
+                "": "YouTube Comedy Slam Preference Data"
+            }
+        ]
+    },
+    {
+        "category": "",
+        "data": [
+            {
+                "": "Gas Sensor Array Drift Dataset"
+            }
+        ]
+    },
+    {
+        "category": "",
+        "data": [
+            {
+                "": "ILPD (Indian Liver Patient Dataset)"
+            }
+        ]
+    },
+    {
+        "category": "",
+        "data": [
+            {
+                "": "OPPORTUNITY Activity Recognition"
+            }
+        ]
+    },
+    {
+        "category": "",
+        "data": [
+            {
+                "": "Nomao"
+            }
+        ]
+    },
+    {
+        "category": "",
+        "data": [
+            {
+                "": "SMS Spam Collection"
+            }
+        ]
+    },
+    {
+        "category": "",
+        "data": [
+            {
+                "": "Skin Segmentation"
+            }
+        ]
+    },
+    {
+        "category": "",
+        "data": [
+            {
+                "": "Planning Relax"
+            }
+        ]
+    },
+    {
+        "category": "",
+        "data": [
+            {
+                "": "PAMAP2 Physical Activity Monitoring"
+            }
+        ]
+    },
+    {
+        "category": "",
+        "data": [
+            {
+                "": "Restaurant & consumer data"
+            }
+        ]
+    },
+    {
+        "category": "",
+        "data": [
+            {
+                "": "CNAE-9"
+            }
+        ]
+    },
+    {
+        "category": "",
+        "data": [
+            {
+                "": "Individual household electric power consumption"
+            }
+        ]
+    },
+    {
+        "category": "",
+        "data": [
+            {
+                "": "seeds"
+            }
+        ]
+    },
+    {
+        "category": "",
+        "data": [
+            {
+                "": "Northix"
+            }
+        ]
+    },
+    {
+        "category": "",
+        "data": [
+            {
+                "": "QtyT40I10D100K"
+            }
+        ]
+    },
+    {
+        "category": "",
+        "data": [
+            {
+                "": "Legal Case Reports"
+            }
+        ]
+    },
+    {
+        "category": "",
+        "data": [
+            {
+                "": "Human Activity Recognition Using Smartphones"
+            }
+        ]
+    },
+    {
+        "category": "",
+        "data": [
+            {
+                "": "One-hundred plant species leaves data set"
+            }
+        ]
+    },
+    {
+        "category": "",
+        "data": [
+            {
+                "": "Energy efficiency"
+            }
+        ]
+    },
+    {
+        "category": "",
+        "data": [
+            {
+                "": "Yacht Hydrodynamics"
+            }
+        ]
+    },
+    {
+        "category": "",
+        "data": [
+            {
+                "": "Fertility"
+            }
+        ]
+    },
+    {
+        "category": "",
+        "data": [
+            {
+                "": "Daphnet Freezing of Gait"
+            }
+        ]
+    },
+    {
+        "category": "",
+        "data": [
+            {
+                "": "3D Road Network (North Jutland, Denmark)"
+            }
+        ]
+    },
+    {
+        "category": "",
+        "data": [
+            {
+                "": "ISTANBUL STOCK EXCHANGE"
+            }
+        ]
+    },
+    {
+        "category": "",
+        "data": [
+            {
+                "": "Buzz in social media"
+            }
+        ]
+    },
+    {
+        "category": "",
+        "data": [
+            {
+                "": "First-order theorem proving"
+            }
+        ]
+    },
+    {
+        "category": "",
+        "data": [
+            {
+                "": "Wearable Computing: Classification of Body Postures and Movements (PUC-Rio)"
+            }
+        ]
+    },
+    {
+        "category": "",
+        "data": [
+            {
+                "": "Gas sensor arrays in open sampling settings"
+            }
+        ]
+    },
+    {
+        "category": "",
+        "data": [
+            {
+                "": "Climate Model Simulation Crashes"
+            }
+        ]
+    },
+    {
+        "category": "",
+        "data": [
+            {
+                "": "MicroMass"
+            }
+        ]
+    },
+    {
+        "category": "",
+        "data": [
+            {
+                "": "QSAR biodegradation"
+            }
+        ]
+    },
+    {
+        "category": "",
+        "data": [
+            {
+                "": "BLOGGER"
+            }
+        ]
+    },
+    {
+        "category": "",
+        "data": [
+            {
+                "": "Daily and Sports Activities"
+            }
+        ]
+    },
+    {
+        "category": "",
+        "data": [
+            {
+                "": "User Knowledge Modeling"
+            }
+        ]
+    },
+    {
+        "category": "",
+        "data": [
+            {
+                "": "Reuters RCV1 RCV2 Multilingual, Multiview Text Categorization Test collection"
+            }
+        ]
+    },
+    {
+        "category": "",
+        "data": [
+            {
+                "": "NYSK"
+            }
+        ]
+    },
+    {
+        "category": "",
+        "data": [
+            {
+                "": "Turkiye Student Evaluation"
+            }
+        ]
+    },
+    {
+        "category": "",
+        "data": [
+            {
+                "": "ser Knowledge Modeling Data (Students' Knowledge Levels on DC Electrical Machines)"
+            }
+        ]
+    },
+    {
+        "category": "",
+        "data": [
+            {
+                "": "EEG Eye State"
+            }
+        ]
+    },
+    {
+        "category": "",
+        "data": [
+            {
+                "": "Physicochemical Properties of Protein Tertiary Structure"
+            }
+        ]
+    },
+    {
+        "category": "",
+        "data": [
+            {
+                "": "seismic-bumps"
+            }
+        ]
+    },
+    {
+        "category": "",
+        "data": [
+            {
+                "": "banknote authentication"
+            }
+        ]
+    },
+    {
+        "category": "",
+        "data": [
+            {
+                "": "USPTO Algorithm Challenge, run by NASA-Harvard Tournament Lab and TopCoder    Problem: Pat"
+            }
+        ]
+    },
+    {
+        "category": "",
+        "data": [
+            {
+                "": "YouTube Multiview Video Games Dataset"
+            }
+        ]
+    },
+    {
+        "category": "",
+        "data": [
+            {
+                "": "Gas Sensor Array Drift Dataset at Different Concentrations"
+            }
+        ]
+    },
+    {
+        "category": "",
+        "data": [
+            {
+                "": "Activities of Daily Living (ADLs) Recognition Using Binary Sensors"
+            }
+        ]
+    },
+    {
+        "category": "",
+        "data": [
+            {
+                "": "SkillCraft1 Master Table Dataset"
+            }
+        ]
+    },
+    {
+        "category": "",
+        "data": [
+            {
+                "": "Weight Lifting Exercises monitored with Inertial Measurement Units"
+            }
+        ]
+    },
+    {
+        "category": "",
+        "data": [
+            {
+                "": "SML2010"
+            }
+        ]
+    },
+    {
+        "category": "",
+        "data": [
+            {
+                "": "Bike Sharing Dataset"
+            }
+        ]
+    },
+    {
+        "category": "",
+        "data": [
+            {
+                "": "Predict keywords activities in a online social media"
+            }
+        ]
+    },
+    {
+        "category": "",
+        "data": [
+            {
+                "": "Thoracic Surgery Data"
+            }
+        ]
+    },
+    {
+        "category": "",
+        "data": [
+            {
+                "": "EMG dataset in Lower Limb"
+            }
+        ]
+    },
+    {
+        "category": "",
+        "data": [
+            {
+                "": "SUSY"
+            }
+        ]
+    },
+    {
+        "category": "",
+        "data": [
+            {
+                "": "HIGGS"
+            }
+        ]
+    },
+    {
+        "category": "",
+        "data": [
+            {
+                "": "Qualitative_Bankruptcy"
+            }
+        ]
+    },
+    {
+        "category": "",
+        "data": [
+            {
+                "": "LSVT Voice Rehabilitation"
+            }
+        ]
+    },
+    {
+        "category": "",
+        "data": [
+            {
+                "": "Dataset for ADL Recognition with Wrist-worn Accelerometer"
+            }
+        ]
+    },
+    {
+        "category": "",
+        "data": [
+            {
+                "": "Wilt"
+            }
+        ]
+    },
+    {
+        "category": "",
+        "data": [
+            {
+                "": "User Identification From Walking Activity"
+            }
+        ]
+    },
+    {
+        "category": "",
+        "data": [
+            {
+                "": "Activity Recognition from Single Chest-Mounted Accelerometer"
+            }
+        ]
+    },
+    {
+        "category": "",
+        "data": [
+            {
+                "": "Leaf"
+            }
+        ]
+    },
+    {
+        "category": "",
+        "data": [
+            {
+                "": "Dresses_Attribute_Sales"
+            }
+        ]
+    },
+    {
+        "category": "",
+        "data": [
+            {
+                "": "Tamilnadu Electricity Board Hourly Readings"
+            }
+        ]
+    },
+    {
+        "category": "",
+        "data": [
+            {
+                "": "Airfoil Self-Noise"
+            }
+        ]
+    },
+    {
+        "category": "",
+        "data": [
+            {
+                "": "Wholesale customers"
+            }
+        ]
+    },
+    {
+        "category": "",
+        "data": [
+            {
+                "": "Twitter Data set for Arabic Sentiment Analysis"
+            }
+        ]
+    },
+    {
+        "category": "",
+        "data": [
+            {
+                "": "Combined Cycle Power Plant"
+            }
+        ]
+    },
+    {
+        "category": "",
+        "data": [
+            {
+                "": "Urban Land Cover"
+            }
+        ]
+    },
+    {
+        "category": "",
+        "data": [
+            {
+                "": "Diabetes 130-US hospitals for years 1999-2008"
+            }
+        ]
+    },
+    {
+        "category": "",
+        "data": [
+            {
+                "": "Bach Choral Harmony"
+            }
+        ]
+    },
+    {
+        "category": "",
+        "data": [
+            {
+                "": "StoneFlakes"
+            }
+        ]
+    },
+    {
+        "category": "",
+        "data": [
+            {
+                "": "Tennis Major Tournament Match Statistics"
+            }
+        ]
+    },
+    {
+        "category": "",
+        "data": [
+            {
+                "": "Parkinson Speech Dataset with  Multiple Types of Sound Recordings"
+            }
+        ]
+    },
+    {
+        "category": "",
+        "data": [
+            {
+                "": "Gesture Phase Segmentation"
+            }
+        ]
+    },
+    {
+        "category": "",
+        "data": [
+            {
+                "": "Perfume Data"
+            }
+        ]
+    },
+    {
+        "category": "",
+        "data": [
+            {
+                "": "BlogFeedback"
+            }
+        ]
+    },
+    {
+        "category": "",
+        "data": [
+            {
+                "": "REALDISP Activity Recognition Dataset"
+            }
+        ]
+    },
+    {
+        "category": "",
+        "data": [
+            {
+                "": "Newspaper and magazine images segmentation dataset"
+            }
+        ]
+    },
+    {
+        "category": "",
+        "data": [
+            {
+                "": "AAAI 2014 Accepted Papers"
+            }
+        ]
+    },
+    {
+        "category": "",
+        "data": [
+            {
+                "": "Gas sensor array under flow modulation"
+            }
+        ]
+    },
+    {
+        "category": "",
+        "data": [
+            {
+                "": "Gas sensor array exposed to turbulent gas mixtures"
+            }
+        ]
+    },
+    {
+        "category": "",
+        "data": [
+            {
+                "": "UJIIndoorLoc"
+            }
+        ]
+    },
+    {
+        "category": "",
+        "data": [
+            {
+                "": "Sentence Classification"
+            }
+        ]
+    },
+    {
+        "category": "",
+        "data": [
+            {
+                "": "Dow Jones Index"
+            }
+        ]
+    },
+    {
+        "category": "",
+        "data": [
+            {
+                "": "sEMG for Basic Hand movements"
+            }
+        ]
+    },
+    {
+        "category": "",
+        "data": [
+            {
+                "": "AAAI 2013 Accepted Papers"
+            }
+        ]
+    },
+    {
+        "category": "",
+        "data": [
+            {
+                "": "Geographical Original of Music"
+            }
+        ]
+    },
+    {
+        "category": "",
+        "data": [
+            {
+                "": "Condition Based Maintenance of Naval Propulsion Plants"
+            }
+        ]
+    },
+    {
+        "category": "",
+        "data": [
+            {
+                "": "Grammatical Facial Expressions"
+            }
+        ]
+    },
+    {
+        "category": "",
+        "data": [
+            {
+                "": "NoisyOffice"
+            }
+        ]
+    },
+    {
+        "category": "",
+        "data": [
+            {
+                "": "MHEALTH Dataset"
+            }
+        ]
+    },
+    {
+        "category": "",
+        "data": [
+            {
+                "": "Student Performance"
+            }
+        ]
+    },
+    {
+        "category": "",
+        "data": [
+            {
+                "": "ElectricityLoadDiagrams20112014"
+            }
+        ]
+    },
+    {
+        "category": "",
+        "data": [
+            {
+                "": "Gas sensor array under dynamic gas mixtures"
+            }
+        ]
+    },
+    {
+        "category": "",
+        "data": [
+            {
+                "": "microblogPCU"
+            }
+        ]
+    },
+    {
+        "category": "",
+        "data": [
+            {
+                "": "Firm-Teacher_Clave-Direction_Classification"
+            }
+        ]
+    },
+    {
+        "category": "",
+        "data": [
+            {
+                "": "Dataset for Sensorless Drive Diagnosis"
+            }
+        ]
+    },
+    {
+        "category": "",
+        "data": [
+            {
+                "": "TV News Channel Commercial Detection Dataset"
+            }
+        ]
+    },
+    {
+        "category": "",
+        "data": [
+            {
+                "": "Phishing Websites"
+            }
+        ]
+    },
+    {
+        "category": "",
+        "data": [
+            {
+                "": "Greenhouse Gas Observing Network"
+            }
+        ]
+    },
+    {
+        "category": "",
+        "data": [
+            {
+                "": "Diabetic Retinopathy Debrecen Data Set"
+            }
+        ]
+    },
+    {
+        "category": "",
+        "data": [
+            {
+                "": "HIV-1 protease cleavage"
+            }
+        ]
+    },
+    {
+        "category": "",
+        "data": [
+            {
+                "": "Sentiment Labelled Sentences"
+            }
+        ]
+    },
+    {
+        "category": "",
+        "data": [
+            {
+                "": "Online News Popularity"
+            }
+        ]
+    },
+    {
+        "category": "",
+        "data": [
+            {
+                "": "Forest type mapping"
+            }
+        ]
+    },
+    {
+        "category": "",
+        "data": [
+            {
+                "": "wiki4HE"
+            }
+        ]
+    },
+    {
+        "category": "",
+        "data": [
+            {
+                "": "Online Video Characteristics and Transcoding Time Dataset"
+            }
+        ]
+    },
+    {
+        "category": "",
+        "data": [
+            {
+                "": "Chronic_Kidney_Disease"
+            }
+        ]
+    },
+    {
+        "category": "",
+        "data": [
+            {
+                "": "Machine Learning based ZZAlpha Ltd. Stock Recommendations 2012-2014"
+            }
+        ]
+    },
+    {
+        "category": "",
+        "data": [
+            {
+                "": "Folio"
+            }
+        ]
+    },
+    {
+        "category": "",
+        "data": [
+            {
+                "": "Taxi Service Trajectory - Prediction Challenge, ECML PKDD 2015"
+            }
+        ]
+    },
+    {
+        "category": "",
+        "data": [
+            {
+                "": "Cuff-Less Blood Pressure Estimation"
+            }
+        ]
+    },
+    {
+        "category": "",
+        "data": [
+            {
+                "": "Smartphone-Based Recognition of Human Activities and Postural Transitions"
+            }
+        ]
+    },
+    {
+        "category": "",
+        "data": [
+            {
+                "": "Mice Protein Expression"
+            }
+        ]
+    },
+    {
+        "category": "",
+        "data": [
+            {
+                "": "UJIIndoorLoc-Mag"
+            }
+        ]
+    },
+    {
+        "category": "",
+        "data": [
+            {
+                "": "Heterogeneity Activity Recognition"
+            }
+        ]
+    },
+    {
+        "category": "",
+        "data": [
+            {
+                "": "Educational Process Mining (EPM): A Learning Analytics Data Set"
+            }
+        ]
+    },
+    {
+        "category": "",
+        "data": [
+            {
+                "": "HEPMASS"
+            }
+        ]
+    },
+    {
+        "category": "",
+        "data": [
+            {
+                "": "Indoor User Movement Prediction from RSS data"
+            }
+        ]
+    },
+    {
+        "category": "",
+        "data": [
+            {
+                "": "Open University Learning Analytics dataset"
+            }
+        ]
+    },
+    {
+        "category": "",
+        "data": [
+            {
+                "": "default of credit card clients"
+            }
+        ]
+    },
+    {
+        "category": "",
+        "data": [
+            {
+                "": "Mesothelioma\u2019s disease data set"
+            }
+        ]
+    },
+    {
+        "category": "",
+        "data": [
+            {
+                "": "Online Retail"
+            }
+        ]
+    },
+    {
+        "category": "",
+        "data": [
+            {
+                "": "SIFT10M"
+            }
+        ]
+    },
+    {
+        "category": "",
+        "data": [
+            {
+                "": "GPS Trajectories"
+            }
+        ]
+    },
+    {
+        "category": "",
+        "data": [
+            {
+                "": "Detect Malacious Executable(AntiVirus)"
+            }
+        ]
+    },
+    {
+        "category": "",
+        "data": [
+            {
+                "": "Occupancy Detection"
+            }
+        ]
+    },
+    {
+        "category": "",
+        "data": [
+            {
+                "": "Improved Spiral Test Using Digitized Graphics Tablet for Monitoring Parkinson\u2019s Disease"
+            }
+        ]
+    },
+    {
+        "category": "",
+        "data": [
+            {
+                "": "News Aggregator"
+            }
+        ]
+    },
+    {
+        "category": "",
+        "data": [
+            {
+                "": "Air Quality"
+            }
+        ]
+    },
+    {
+        "category": "",
+        "data": [
+            {
+                "": "Twin gas sensor arrays"
+            }
+        ]
+    },
+    {
+        "category": "",
+        "data": [
+            {
+                "": "Gas sensors for home activity monitoring"
+            }
+        ]
+    },
+    {
+        "category": "",
+        "data": [
+            {
+                "": "Facebook Comment Volume Dataset"
+            }
+        ]
+    },
+    {
+        "category": "",
+        "data": [
+            {
+                "": "Smartphone Dataset for Human Activity Recognition (HAR) in Ambient Assisted Living (AAL)"
+            }
+        ]
+    },
+    {
+        "category": "",
+        "data": [
+            {
+                "": "Polish companies bankruptcy data"
+            }
+        ]
+    },
+    {
+        "category": "",
+        "data": [
+            {
+                "": "Activity Recognition system based on Multisensor data fusion (AReM)"
+            }
+        ]
+    },
+    {
+        "category": "",
+        "data": [
+            {
+                "": "Dota2 Games Results"
+            }
+        ]
+    },
+    {
+        "category": "",
+        "data": [
+            {
+                "": "Facebook metrics"
+            }
+        ]
+    },
+    {
+        "category": "",
+        "data": [
+            {
+                "": "UbiqLog (smartphone lifelogging)"
+            }
+        ]
+    },
+    {
+        "category": "",
+        "data": [
+            {
+                "": "NIPS Conference Papers 1987-2015"
+            }
+        ]
+    },
+    {
+        "category": "",
+        "data": [
+            {
+                "": "HTRU2"
+            }
+        ]
+    },
+    {
+        "category": "",
+        "data": [
+            {
+                "": "Drug consumption (quantified)"
+            }
+        ]
+    },
+    {
+        "category": "",
+        "data": [
+            {
+                "": "Appliances energy prediction"
+            }
+        ]
+    },
+    {
+        "category": "",
+        "data": [
+            {
+                "": "Miskolc IIS Hybrid IPS"
+            }
+        ]
+    },
+    {
+        "category": "",
+        "data": [
+            {
+                "": "KDC-4007 dataset Collection"
+            }
+        ]
+    },
+    {
+        "category": "",
+        "data": [
+            {
+                "": "Geo-Magnetic field and WLAN dataset for indoor localisation from wristband and smartphone"
+            }
+        ]
+    },
+    {
+        "category": "",
+        "data": [
+            {
+                "": "DrivFace"
+            }
+        ]
+    },
+    {
+        "category": "",
+        "data": [
+            {
+                "": "Website Phishing"
+            }
+        ]
+    },
+    {
+        "category": "",
+        "data": [
+            {
+                "": "YouTube Spam Collection"
+            }
+        ]
+    },
+    {
+        "category": "",
+        "data": [
+            {
+                "": "Beijing PM2.5 Data"
+            }
+        ]
+    },
+    {
+        "category": "",
+        "data": [
+            {
+                "": "Cargo 2000 Freight Tracking and Tracing"
+            }
+        ]
+    },
+    {
+        "category": "",
+        "data": [
+            {
+                "": "Cervical cancer (Risk Factors)"
+            }
+        ]
+    },
+    {
+        "category": "",
+        "data": [
+            {
+                "": "Quality Assessment of Digital Colposcopies"
+            }
+        ]
+    },
+    {
+        "category": "",
+        "data": [
+            {
+                "": "KASANDR"
+            }
+        ]
+    },
+    {
+        "category": "",
+        "data": [
+            {
+                "": "FMA: A Dataset For Music Analysis"
+            }
+        ]
+    },
+    {
+        "category": "",
+        "data": [
+            {
+                "": "Air quality"
+            }
+        ]
+    },
+    {
+        "category": "",
+        "data": [
+            {
+                "": "Epileptic Seizure Recognition"
+            }
+        ]
+    },
+    {
+        "category": "",
+        "data": [
+            {
+                "": "Devanagari Handwritten Character Dataset"
+            }
+        ]
+    },
+    {
+        "category": "",
+        "data": [
+            {
+                "": "Stock portfolio performance"
+            }
+        ]
+    },
+    {
+        "category": "",
+        "data": [
+            {
+                "": "MoCap Hand Postures"
+            }
+        ]
+    },
+    {
+        "category": "",
+        "data": [
+            {
+                "": "Early biomarkers of Parkinson\ufffds disease based on natural connected speech"
+            }
+        ]
+    },
+    {
+        "category": "",
+        "data": [
+            {
+                "": "Data for Software Engineering Teamwork Assessment in Education Setting"
+            }
+        ]
+    },
+    {
+        "category": "",
+        "data": [
+            {
+                "": "PM2.5 Data of Five Chinese Cities"
+            }
+        ]
+    },
+    {
+        "category": "",
+        "data": [
+            {
+                "": "Parkinson Disease Spiral Drawings Using Digitized Graphics Tablet"
+            }
+        ]
+    },
+    {
+        "category": "",
+        "data": [
+            {
+                "": "Sales_Transactions_Dataset_Weekly"
+            }
+        ]
+    },
+    {
+        "category": "",
+        "data": [
+            {
+                "": "Las Vegas Strip"
+            }
+        ]
+    },
+    {
+        "category": "",
+        "data": [
+            {
+                "": "Eco-hotel"
+            }
+        ]
+    },
+    {
+        "category": "",
+        "data": [
+            {
+                "": "MEU-Mobile KSD"
+            }
+        ]
+    },
+    {
+        "category": "",
+        "data": [
+            {
+                "": "Crowdsourced Mapping"
+            }
+        ]
+    },
+    {
+        "category": "",
+        "data": [
+            {
+                "": "gene expression cancer RNA-Seq"
+            }
+        ]
+    },
+    {
+        "category": "",
+        "data": [
+            {
+                "": "Hybrid Indoor Positioning Dataset from WiFi RSSI, Bluetooth and magnetometer"
+            }
+        ]
+    },
+    {
+        "category": "",
+        "data": [
+            {
+                "": "chestnut \u2013 LARVIC"
+            }
+        ]
+    },
+    {
+        "category": "",
+        "data": [
+            {
+                "": "Burst Header Packet (BHP) flooding attack on Optical Burst Switching (OBS) Network"
+            }
+        ]
+    },
+    {
+        "category": "",
+        "data": [
+            {
+                "": "Motion Capture Hand Postures"
+            }
+        ]
+    },
+    {
+        "category": "",
+        "data": [
+            {
+                "": "Anuran Calls (MFCCs)"
+            }
+        ]
+    },
+    {
+        "category": "",
+        "data": [
+            {
+                "": "TTC-3600: Benchmark dataset for Turkish text categorization"
+            }
+        ]
+    },
+    {
+        "category": "",
+        "data": [
+            {
+                "": "Gastrointestinal Lesions in Regular Colonoscopy"
+            }
+        ]
+    },
+    {
+        "category": "",
+        "data": [
+            {
+                "": "Daily Demand Forecasting Orders"
+            }
+        ]
+    },
+    {
+        "category": "",
+        "data": [
+            {
+                "": "Paper Reviews"
+            }
+        ]
+    },
+    {
+        "category": "",
+        "data": [
+            {
+                "": "extention of Z-Alizadeh sani dataset"
+            }
+        ]
+    },
+    {
+        "category": "",
+        "data": [
+            {
+                "": "Z-Alizadeh Sani"
+            }
+        ]
+    },
+    {
+        "category": "",
+        "data": [
+            {
+                "": "Dynamic Features of VirusShare Executables"
+            }
+        ]
+    },
+    {
+        "category": "",
+        "data": [
+            {
+                "": "IDA2016Challenge"
+            }
+        ]
+    },
+    {
+        "category": "",
+        "data": [
+            {
+                "": "DSRC Vehicle Communications"
+            }
+        ]
+    },
+    {
+        "category": "",
+        "data": [
+            {
+                "": "Mturk User-Perceived Clusters over Images"
+            }
+        ]
+    },
+    {
+        "category": "",
+        "data": [
+            {
+                "": "Character Font Images"
+            }
+        ]
+    },
+    {
+        "category": "",
+        "data": [
+            {
+                "": "DeliciousMIL: A Data Set for Multi-Label Multi-Instance Learning with Instance Labels"
+            }
+        ]
+    },
+    {
+        "category": "",
+        "data": [
+            {
+                "": "Autistic Spectrum Disorder Screening Data for Children"
+            }
+        ]
+    },
+    {
+        "category": "",
+        "data": [
+            {
+                "": "Autistic Spectrum Disorder Screening Data for Adolescent"
+            }
+        ]
+    },
+    {
+        "category": "",
+        "data": [
+            {
+                "": "APS Failure at Scania Trucks"
+            }
+        ]
+    },
+    {
+        "category": "",
+        "data": [
+            {
+                "": "Wireless Indoor Localization"
+            }
+        ]
+    },
+    {
+        "category": "",
+        "data": [
+            {
+                "": "HCC Survival"
+            }
+        ]
+    },
+    {
+        "category": "",
+        "data": [
+            {
+                "": "CSM (Conventional and Social Media Movies) Dataset 2014 and 2015"
+            }
+        ]
+    },
+    {
+        "category": "",
+        "data": [
+            {
+                "": "University of Tehran Question Dataset 2016 (UTQD.2016)"
+            }
+        ]
+    },
+    {
+        "category": "",
+        "data": [
+            {
+                "": "Autism Screening Adult"
+            }
+        ]
+    },
+    {
+        "category": "",
+        "data": [
+            {
+                "": "Activity recognition with healthy older people using a batteryless wearable sensor"
+            }
+        ]
+    },
+    {
+        "category": "",
+        "data": [
+            {
+                "": "Immunotherapy Dataset"
+            }
+        ]
+    },
+    {
+        "category": "",
+        "data": [
+            {
+                "": "Cryotherapy Dataset"
+            }
+        ]
+    },
+    {
+        "category": "",
+        "data": [
+            {
+                "": "OCT data & Color Fundus Images of Left & Right Eyes"
+            }
+        ]
+    },
+    {
+        "category": "",
+        "data": [
+            {
+                "": "Discrete Tone Image Dataset"
+            }
+        ]
+    },
+    {
+        "category": "",
+        "data": [
+            {
+                "": "News Popularity in Multiple Social Media Platforms"
+            }
+        ]
+    },
+    {
+        "category": "",
+        "data": [
+            {
+                "": "Ultrasonic flowmeter diagnostics"
+            }
+        ]
+    },
+    {
+        "category": "",
+        "data": [
+            {
+                "": "ICMLA 2014 Accepted Papers Data Set"
+            }
+        ]
+    },
+    {
+        "category": "",
+        "data": [
+            {
+                "": "BLE RSSI Dataset for Indoor localization and Navigation"
+            }
+        ]
+    },
+    {
+        "category": "",
+        "data": [
+            {
+                "": "Container Crane Controller Data Set"
+            }
+        ]
+    },
+    {
+        "category": "",
+        "data": [
+            {
+                "": "Residential Building Data Set"
+            }
+        ]
+    },
+    {
+        "category": "",
+        "data": [
+            {
+                "": "Health News in Twitter"
+            }
+        ]
+    },
+    {
+        "category": "",
+        "data": [
+            {
+                "": "chipseq"
+            }
+        ]
+    },
+    {
+        "category": "",
+        "data": [
+            {
+                "": "SGEMM GPU kernel performance"
+            }
+        ]
+    },
+    {
+        "category": "",
+        "data": [
+            {
+                "": "Repeat Consumption Matrices"
+            }
+        ]
+    },
+    {
+        "category": "",
+        "data": [
+            {
+                "": "detection_of_IoT_botnet_attacks_N_BaIoT"
+            }
+        ]
+    },
+    {
+        "category": "",
+        "data": [
+            {
+                "": "Absenteeism at work"
+            }
+        ]
+    },
+    {
+        "category": "",
+        "data": [
+            {
+                "": "SCADI"
+            }
+        ]
+    },
+    {
+        "category": "",
+        "data": [
+            {
+                "": "Condition monitoring of hydraulic systems"
+            }
+        ]
+    },
+    {
+        "category": "",
+        "data": [
+            {
+                "": "Carbon Nanotubes"
+            }
+        ]
+    },
+    {
+        "category": "",
+        "data": [
+            {
+                "": "Optical Interconnection Network"
+            }
+        ]
+    },
+    {
+        "category": "",
+        "data": [
+            {
+                "": "Sports articles for objectivity analysis"
+            }
+        ]
+    },
+    {
+        "category": "",
+        "data": [
+            {
+                "": "Breast Cancer Coimbra"
+            }
+        ]
+    },
+    {
+        "category": "",
+        "data": [
+            {
+                "": "GNFUV Unmanned Surface Vehicles Sensor Data"
+            }
+        ]
+    },
+    {
+        "category": "",
+        "data": [
+            {
+                "": "Dishonest Internet users Dataset"
+            }
+        ]
+    },
+    {
+        "category": "",
+        "data": [
+            {
+                "": "Victorian Era Authorship Attribution"
+            }
+        ]
+    },
+    {
+        "category": "",
+        "data": [
+            {
+                "": "Simulated Falls and Daily Living Activities Data Set"
+            }
+        ]
+    },
+    {
+        "category": "",
+        "data": [
+            {
+                "": "Multimodal Damage Identification for Humanitarian Computing"
+            }
+        ]
+    },
+    {
+        "category": "",
+        "data": [
+            {
+                "": "EEG Steady-State Visual Evoked Potential Signals"
+            }
+        ]
+    },
+    {
+        "category": "",
+        "data": [
+            {
+                "": "Roman Urdu Data Set"
+            }
+        ]
+    },
+    {
+        "category": "",
+        "data": [
+            {
+                "": "Avila"
+            }
+        ]
+    },
+    {
+        "category": "",
+        "data": [
+            {
+                "": "PANDOR"
+            }
+        ]
+    },
+    {
+        "category": "",
+        "data": [
+            {
+                "": "Drug Review Dataset (Druglib.com)"
+            }
+        ]
+    },
+    {
+        "category": "",
+        "data": [
+            {
+                "": "Drug Review Dataset (Drugs.com)"
+            }
+        ]
+    },
+    {
+        "category": "",
+        "data": [
+            {
+                "": "Physical Unclonable Functions"
+            }
+        ]
+    },
+    {
+        "category": "",
+        "data": [
+            {
+                "": "Superconductivty Data"
+            }
+        ]
+    },
+    {
+        "category": "",
+        "data": [
+            {
+                "": "WESAD (Wearable Stress and Affect Detection)"
+            }
+        ]
+    },
+    {
+        "category": "",
+        "data": [
+            {
+                "": "GNFUV Unmanned Surface Vehicles Sensor Data Set 2"
+            }
+        ]
+    },
+    {
+        "category": "",
+        "data": [
+            {
+                "": "Student Academics Performance"
+            }
+        ]
+    },
+    {
+        "category": "",
+        "data": [
+            {
+                "": "Online Shoppers Purchasing Intention Dataset"
+            }
+        ]
+    },
+    {
+        "category": "",
+        "data": [
+            {
+                "": "PMU-UD"
+            }
+        ]
+    },
+    {
+        "category": "",
+        "data": [
+            {
+                "": "Parkinson's Disease Classification"
+            }
+        ]
+    },
+    {
+        "category": "",
+        "data": [
+            {
+                "": "Electrical Grid Stability Simulated Data"
+            }
+        ]
+    },
+    {
+        "category": "",
+        "data": [
+            {
+                "": "Caesarian Section Classification Dataset"
+            }
+        ]
+    },
+    {
+        "category": "",
+        "data": [
+            {
+                "": "BAUM-1"
+            }
+        ]
+    },
+    {
+        "category": "",
+        "data": [
+            {
+                "": "BAUM-2"
+            }
+        ]
+    },
+    {
+        "category": "",
+        "data": [
+            {
+                "": "Audit Data"
+            }
+        ]
+    },
+    {
+        "category": "",
+        "data": [
+            {
+                "": "BuddyMove Data Set"
+            }
+        ]
+    },
+    {
+        "category": "",
+        "data": [
+            {
+                "": "Real estate valuation data set"
+            }
+        ]
+    },
+    {
+        "category": "",
+        "data": [
+            {
+                "": "Early biomarkers of Parkinson\u2019s disease based on natural connected speech Data Set"
+            }
+        ]
+    },
+    {
+        "category": "",
+        "data": [
+            {
+                "": "Somerville Happiness Survey"
+            }
+        ]
+    },
+    {
+        "category": "",
+        "data": [
+            {
+                "": "2.4 GHZ Indoor Channel Measurements"
+            }
+        ]
+    },
+    {
+        "category": "",
+        "data": [
+            {
+                "": "EMG data for gestures"
+            }
+        ]
+    },
+    {
+        "category": "",
+        "data": [
+            {
+                "": "Parking Birmingham"
+            }
+        ]
+    },
+    {
+        "category": "",
+        "data": [
+            {
+                "": "Behavior of the urban traffic of the city of Sao Paulo in Brazil"
+            }
+        ]
+    },
+    {
+        "category": "",
+        "data": [
+            {
+                "": "Travel Reviews"
+            }
+        ]
+    },
+    {
+        "category": "",
+        "data": [
+            {
+                "": "Tarvel Review Ratings"
+            }
+        ]
+    },
+    {
+        "category": "",
+        "data": [
+            {
+                "": "Rice Leaf Diseases"
+            }
+        ]
+    },
+    {
+        "category": "",
+        "data": [
+            {
+                "": "Gas sensor array temperature modulation"
+            }
+        ]
+    },
+    {
+        "category": "",
+        "data": [
+            {
+                "": "Facebook Live Sellers in Thailand"
+            }
+        ]
+    },
+    {
+        "category": "",
+        "data": [
+            {
+                "": "Parkinson Dataset with replicated acoustic features"
+            }
+        ]
+    },
+    {
+        "category": "",
+        "data": [
+            {
+                "": "Metro Interstate Traffic Volume"
+            }
+        ]
+    },
+    {
+        "category": "",
+        "data": [
+            {
+                "": "Query Analytics Workloads Dataset"
+            }
+        ]
+    },
+    {
+        "category": "",
+        "data": [
+            {
+                "": "Wave Energy Converters"
+            }
+        ]
+    },
+    {
+        "category": "",
+        "data": [
+            {
+                "": "PPG-DaLiA"
+            }
+        ]
+    },
+    {
+        "category": "",
+        "data": [
+            {
+                "": "Alcohol QCM Sensor Dataset"
+            }
+        ]
+    },
+    {
+        "category": "",
+        "data": [
+            {
+                "": "Divorce Predictors data set"
+            }
+        ]
+    },
+    {
+        "category": "",
+        "data": [
+            {
+                "": "Incident management process enriched event log"
+            }
+        ]
+    },
+    {
+        "category": "",
+        "data": [
+            {
+                "": "Opinion Corpus for Lebanese Arabic Reviews (OCLAR)"
+            }
+        ]
+    },
+    {
+        "category": "",
+        "data": [
+            {
+                "": "MEx"
+            }
+        ]
+    },
+    {
+        "category": "",
+        "data": [
+            {
+                "": "Beijing Multi-Site Air-Quality Data"
+            }
+        ]
+    },
+    {
+        "category": "",
+        "data": [
+            {
+                "": "Online Retail II"
+            }
+        ]
+    },
+    {
+        "category": "",
+        "data": [
+            {
+                "": "Hepatitis C Virus (HCV) for Egyptian patients"
+            }
+        ]
+    },
+    {
+        "category": "",
+        "data": [
+            {
+                "": "QSAR fish toxicity"
+            }
+        ]
+    },
+    {
+        "category": "",
+        "data": [
+            {
+                "": "QSAR aquatic toxicity"
+            }
+        ]
+    },
+    {
+        "category": "",
+        "data": [
+            {
+                "": "Human Activity Recognition from Continuous Ambient Sensor Data"
+            }
+        ]
+    },
+    {
+        "category": "",
+        "data": [
+            {
+                "": "WISDM Smartphone and Smartwatch Activity and Biometrics Dataset"
+            }
+        ]
+    },
+    {
+        "category": "",
+        "data": [
+            {
+                "": "QSAR oral toxicity"
+            }
+        ]
+    },
+    {
+        "category": "",
+        "data": [
+            {
+                "": "QSAR androgen receptor"
+            }
+        ]
+    },
+    {
+        "category": "",
+        "data": [
+            {
+                "": "QSAR Bioconcentration classes dataset"
+            }
+        ]
+    },
+    {
+        "category": "",
+        "data": [
+            {
+                "": "QSAR fish bioconcentration factor (BCF)"
+            }
+        ]
+    },
+    {
+        "category": "",
+        "data": [
+            {
+                "": "A study of  Asian Religious and Biblical Texts"
+            }
+        ]
+    },
+    {
+        "category": "",
+        "data": [
+            {
+                "": "Real-time Election Results: Portugal 2019"
+            }
+        ]
+    },
+    {
+        "category": "",
+        "data": [
+            {
+                "": "Bias correction of numerical prediction model temperature forecast"
+            }
+        ]
+    },
+    {
+        "category": "",
+        "data": [
+            {
+                "": "Bar Crawl: Detecting Heavy Drinking"
+            }
+        ]
+    },
+    {
+        "category": "",
+        "data": [
+            {
+                "": "Kitsune Network Attack Dataset"
+            }
+        ]
+    },
+    {
+        "category": "",
+        "data": [
+            {
+                "": "Shoulder Implant X-Ray Manufacturer Classification"
+            }
+        ]
+    },
+    {
+        "category": "",
+        "data": [
+            {
+                "": "Speaker Accent Recognition"
+            }
+        ]
+    },
+    {
+        "category": "",
+        "data": [
+            {
+                "": "Heart failure clinical records"
+            }
+        ]
+    },
+    {
+        "category": "",
+        "data": [
+            {
+                "": "Deepfakes: Medical Image Tamper Detection"
+            }
+        ]
+    },
+    {
+        "category": "",
+        "data": [
+            {
+                "": "selfBACK"
+            }
+        ]
+    },
+    {
+        "category": "",
+        "data": [
+            {
+                "": "South German Credit"
+            }
+        ]
+    },
+    {
+        "category": "",
+        "data": [
+            {
+                "": "Exasens"
+            }
+        ]
+    },
+    {
+        "category": "",
+        "data": [
+            {
+                "": "Swarm Behaviour"
+            }
+        ]
+    },
+    {
+        "category": "",
+        "data": [
+            {
+                "": "Crop mapping using fused optical-radar data set"
+            }
+        ]
+    },
+    {
+        "category": "",
+        "data": [
+            {
+                "": "BitcoinHeistRansomwareAddressDataset"
+            }
+        ]
+    },
+    {
+        "category": "",
+        "data": [
+            {
+                "": "Facebook Large Page-Page Network"
+            }
+        ]
+    },
+    {
+        "category": "",
+        "data": [
+            {
+                "": "Amphibians"
+            }
+        ]
+    },
+    {
+        "category": "",
+        "data": [
+            {
+                "": "Early stage diabetes risk prediction dataset."
+            }
+        ]
+    },
+    {
+        "category": "",
+        "data": [
+            {
+                "": "Turkish Spam V01"
+            }
+        ]
+    },
+    {
+        "category": "",
+        "data": [
+            {
+                "": "Stock keeping units"
+            }
+        ]
+    },
+    {
+        "category": "",
+        "data": [
+            {
+                "": "Demand Forecasting for a store"
+            }
+        ]
+    },
+    {
+        "category": "",
+        "data": [
+            {
+                "": "Detect Malware Types"
+            }
+        ]
+    },
+    {
+        "category": "",
+        "data": [
+            {
+                "": "Wave Energy Converters"
+            }
+        ]
+    },
+    {
+        "category": "",
+        "data": [
+            {
+                "": "Youtube cookery channels viewers comments in Hinglish"
+            }
+        ]
+    },
+    {
+        "category": "",
+        "data": [
+            {
+                "": "Pedestrian in Traffic Dataset"
+            }
+        ]
+    },
+    {
+        "category": "",
+        "data": [
+            {
+                "": "Cervical Cancer Behavior Risk"
+            }
+        ]
+    },
+    {
+        "category": "",
+        "data": [
+            {
+                "": "Sattriya_Dance_Single_Hand_Gestures Dataset"
+            }
+        ]
+    },
+    {
+        "category": "",
+        "data": [
+            {
+                "": "Divorce Predictors data set"
+            }
+        ]
+    },
+    {
+        "category": "",
+        "data": [
+            {
+                "": "3W dataset"
+            }
+        ]
+    },
+    {
+        "category": "",
+        "data": [
+            {
+                "": "Malware static and dynamic features VxHeaven and Virus Total"
+            }
+        ]
+    },
+    {
+        "category": "",
+        "data": [
+            {
+                "": "Internet Firewall Data"
+            }
+        ]
+    },
+    {
+        "category": "",
+        "data": [
+            {
+                "": "User Profiling and Abusive Language Detection Dataset"
+            }
+        ]
+    },
+    {
+        "category": "",
+        "data": [
+            {
+                "": "Estimation of obesity levels based on eating habits and physical condition"
+            }
+        ]
+    },
+    {
+        "category": "",
+        "data": [
+            {
+                "": "Rice (Cammeo and Osmancik)"
+            }
+        ]
+    },
+    {
+        "category": "",
+        "data": [
+            {
+                "": "Vehicle routing and scheduling problems"
+            }
+        ]
+    },
+    {
+        "category": "",
+        "data": [
+            {
+                "": "Algerian Forest Fires Dataset"
+            }
+        ]
+    },
+    {
+        "category": "",
+        "data": [
+            {
+                "": "Breath Metabolomics"
+            }
+        ]
+    },
+    {
+        "category": "",
+        "data": [
+            {
+                "": "Horton General Hospital"
+            }
+        ]
+    },
+    {
+        "category": "",
+        "data": [
+            {
+                "": "UrbanGB, urban road accidents coordinates labelled by the urban center"
+            }
+        ]
+    },
+    {
+        "category": "",
+        "data": [
+            {
+                "": "Gas Turbine CO and NOx Emission Data Set"
+            }
+        ]
+    },
+    {
+        "category": "",
+        "data": [
+            {
+                "": "Activity recognition using wearable physiological measurements"
+            }
+        ]
+    },
+    {
+        "category": "",
+        "data": [
+            {
+                "": "clickstream data for online shopping"
+            }
+        ]
+    },
+    {
+        "category": "",
+        "data": [
+            {
+                "": "CNNpred: CNN-based stock market prediction using a diverse set of variables"
+            }
+        ]
+    },
+    {
+        "category": "",
+        "data": [
+            {
+                "": "Apartment for rent classified"
+            }
+        ]
+    },
+    {
+        "category": "",
+        "data": [
+            {
+                "": ": Simulated Data set of Iraqi tourism places"
+            }
+        ]
+    },
+    {
+        "category": "",
+        "data": [
+            {
+                "": "Nasarian CAD Dataset"
+            }
+        ]
+    },
+    {
+        "category": "",
+        "data": [
+            {
+                "": "Monolithic Columns in Troad and Mysia Region"
+            }
+        ]
+    },
+    {
+        "category": "",
+        "data": [
+            {
+                "": "Bar Crawl: Detecting Heavy Drinking"
+            }
+        ]
+    },
+    {
+        "category": "",
+        "data": [
+            {
+                "": "Seoul Bike Sharing Demand"
+            }
+        ]
+    },
+    {
+        "category": "",
+        "data": [
+            {
+                "": "Person Classification Gait Data"
+            }
+        ]
+    },
+    {
+        "category": "",
+        "data": [
+            {
+                "": "Shill Bidding Dataset"
+            }
+        ]
+    },
+    {
+        "category": "",
+        "data": [
+            {
+                "": "Iranian Churn Dataset"
+            }
+        ]
+    },
+    {
+        "category": "",
+        "data": [
+            {
+                "": "Unmanned Aerial Vehicle (UAV) Intrusion Detection"
+            }
+        ]
+    },
+    {
+        "category": "",
+        "data": [
+            {
+                "": "Bone marrow transplant: children"
+            }
+        ]
+    },
+    {
+        "category": "",
+        "data": [
+            {
+                "": "Exasens"
+            }
+        ]
+    },
+    {
+        "category": "",
+        "data": [
+            {
+                "": "COVID-19 Surveillance"
+            }
+        ]
+    },
+    {
+        "category": "",
+        "data": [
+            {
+                "": "Refractive errors"
+            }
+        ]
+    },
+    {
+        "category": "",
+        "data": [
+            {
+                "": "Shoulder Implant X-Ray Manufacturer Classification"
+            }
+        ]
+    },
+    {
+        "category": "",
+        "data": [
+            {
+                "": "CLINC150"
+            }
+        ]
+    },
+    {
+        "category": "",
+        "data": [
+            {
+                "": "HCV data"
+            }
+        ]
+    },
+    {
+        "category": "",
+        "data": [
+            {
+                "": "Taiwanese Bankruptcy Prediction"
+            }
+        ]
+    },
+    {
+        "category": "",
+        "data": [
+            {
+                "": "South German Credit (UPDATE)"
+            }
+        ]
+    },
+    {
+        "category": "",
+        "data": [
+            {
+                "": "IIWA14-R820-Gazebo-Dataset-10Trajectories"
+            }
+        ]
+    },
+    {
+        "category": "",
+        "data": [
+            {
+                "": "Guitar Chords finger positions"
+            }
+        ]
+    },
+    {
+        "category": "",
+        "data": [
+            {
+                "": "Russian Corpus of Biographical Texts"
+            }
+        ]
+    },
+    {
+        "category": "",
+        "data": [
+            {
+                "": "Codon usage"
+            }
+        ]
+    },
+    {
+        "category": "",
+        "data": [
+            {
+                "": "Intelligent Media Accelerometer and Gyroscope (IM-AccGyro) Dataset"
+            }
+        ]
+    },
+    {
+        "category": "",
+        "data": [
+            {
+                "": "Myocardial infarction complications"
+            }
+        ]
+    },
+    {
+        "category": "",
+        "data": [
+            {
+                "": "Hungarian Chickenpox Cases"
+            }
+        ]
+    },
+    {
+        "category": "",
+        "data": [
+            {
+                "": "Simulated data for survival modelling"
+            }
+        ]
+    },
+    {
+        "category": "",
+        "data": [
+            {
+                "": "Student Performance on an entrance examination"
+            }
+        ]
+    },
+    {
+        "category": "",
+        "data": [
+            {
+                "": "Chemical Composition of Ceramic Samples"
+            }
+        ]
+    },
+    {
+        "category": "",
+        "data": [
+            {
+                "": "Labeled Text Forum Threads Dataset"
+            }
+        ]
+    },
+    {
+        "category": "",
+        "data": [
+            {
+                "": "Stock keeping units"
+            }
+        ]
+    },
+    {
+        "category": "",
+        "data": [
+            {
+                "": "BLE RSSI dataset for Indoor localization"
+            }
+        ]
+    },
+    {
+        "category": "",
+        "data": [
+            {
+                "": "Basketball dataset"
+            }
+        ]
+    },
+    {
+        "category": "",
+        "data": [
+            {
+                "": "GitHub MUSAE"
+            }
+        ]
+    },
+    {
+        "category": "",
+        "data": [
+            {
+                "": "Anticancer peptides"
+            }
+        ]
+    },
+    {
+        "category": "",
+        "data": [
+            {
+                "": "Monolithic Columns in Troad and Mysia Region"
+            }
+        ]
+    },
+    {
+        "category": "",
+        "data": [
+            {
+                "": "Gender by Name"
+            }
+        ]
+    },
+    {
+        "category": "",
+        "data": [
+            {
+                "": "Iranian Churn Dataset"
+            }
+        ]
+    },
+    {
+        "category": "",
+        "data": [
+            {
+                "": "Unmanned Aerial Vehicle (UAV) Intrusion Detection"
+            }
+        ]
+    },
+    {
+        "category": "",
+        "data": [
+            {
+                "": "Shoulder Implant Manufacture Classification"
+            }
+        ]
+    },
+    {
+        "category": "",
+        "data": [
+            {
+                "": "LastFM Asia Social Network"
+            }
+        ]
+    },
+    {
+        "category": "",
+        "data": [
+            {
+                "": "Wheat kernels"
+            }
+        ]
+    },
+    {
+        "category": "",
+        "data": [
+            {
+                "": "Productivity Prediction of Garment Employees"
+            }
+        ]
+    },
+    {
+        "category": "",
+        "data": [
+            {
+                "": "Multi-view Brain Networks"
+            }
+        ]
+    },
+    {
+        "category": "",
+        "data": [
+            {
+                "": "LastFM Asia Social Network"
+            }
+        ]
+    },
+    {
+        "category": "",
+        "data": [
+            {
+                "": "Wisesight Sentiment Corpus"
+            }
+        ]
+    },
+    {
+        "category": "",
+        "data": [
+            {
+                "": "AI4I 2020 Predictive Maintenance Dataset"
+            }
+        ]
+    },
+    {
+        "category": "",
+        "data": [
+            {
+                "": "Dry Bean Dataset"
+            }
+        ]
+    },
+    {
+        "category": "",
+        "data": [
+            {
+                "": "in-vehicle coupon recommendation"
+            }
+        ]
+    },
+    {
+        "category": "",
+        "data": [
+            {
+                "": "Gait Classification"
+            }
+        ]
+    },
+    {
+        "category": "",
+        "data": [
+            {
+                "": "Wikipedia Math Essentials"
+            }
+        ]
+    },
+    {
+        "category": "",
+        "data": [
+            {
+                "": "Wikipedia Math Essentials"
+            }
+        ]
+    },
+    {
+        "category": "",
+        "data": [
+            {
+                "": "Synchronous Machine Data Set"
+            }
+        ]
+    },
+    {
+        "category": "",
+        "data": [
+            {
+                "": "Average Localization Error (ALE) in sensor node localization process in WSNs"
+            }
+        ]
+    },
+    {
+        "category": "",
+        "data": [
+            {
+                "": "9mers from cullpdb"
+            }
+        ]
+    },
+    {
+        "category": "",
+        "data": [
+            {
+                "": "TamilSentiMix"
+            }
+        ]
+    },
+    {
+        "category": "",
+        "data": [
+            {
+                "": "Accelerometer"
+            }
+        ]
+    },
+    {
+        "category": "",
+        "data": [
+            {
+                "": "Synchronous Machine Data Set"
+            }
+        ]
+    },
+    {
+        "category": "",
+        "data": [
+            {
+                "": "Pedal Me Bicycle Deliveries"
+            }
+        ]
+    },
+    {
+        "category": "",
+        "data": [
+            {
+                "": "Turkish Headlines Dataset"
+            }
+        ]
+    },
+    {
+        "category": "",
+        "data": [
+            {
+                "": "Secondary Mushroom Dataset"
+            }
+        ]
+    },
+    {
+        "category": "",
+        "data": [
+            {
+                "": "Power consumption of Tetouan city"
+            }
+        ]
+    },
+    {
+        "category": "",
+        "data": [
+            {
+                "": "Raisin Dataset"
+            }
+        ]
+    },
+    {
+        "category": "",
+        "data": [
+            {
+                "": "Steel Industry Energy Consumption Dataset"
+            }
+        ]
+    },
+    {
+        "category": "",
+        "data": [
+            {
+                "": "Gender Gap in Spanish WP"
+            }
+        ]
+    },
+    {
+        "category": "",
+        "data": [
+            {
+                "": "Non verbal tourists data"
+            }
+        ]
+    },
+    {
+        "category": "",
+        "data": [
+            {
+                "": "Roman Urdu Sentiment Analysis Dataset (RUSAD)"
+            }
+        ]
+    },
+    {
+        "category": "",
+        "data": [
+            {
+                "": "TUANDROMD ( Tezpur University Android Malware Dataset)"
+            }
+        ]
+    },
+    {
+        "category": "",
+        "data": [
+            {
+                "": "Higher Education Students Performance Evaluation Dataset"
+            }
+        ]
+    },
+    {
+        "category": "",
+        "data": [
+            {
+                "": "Risk Factor prediction of Chronic Kidney Disease"
+            }
+        ]
+    },
+    {
+        "category": "",
+        "data": [
+            {
+                "": "Lab Test"
+            }
+        ]
+    },
+    {
+        "category": "",
+        "data": [
+            {
+                "": "Shoulder Implant Manufacture Classification"
+            }
+        ]
+    },
+    {
+        "category": "",
+        "data": [
+            {
+                "": "Rocket League Skillshots Data Set"
+            }
+        ]
+    },
+    {
+        "category": "",
+        "data": [
+            {
+                "": "Sepsis survival minimal clinical records"
+            }
+        ]
+    },
+    {
+        "category": "",
+        "data": [
+            {
+                "": "Water Quality Prediction"
+            }
+        ]
+    },
+    {
+        "category": "",
+        "data": [
+            {
+                "": "Traffic Flow Forecasting"
+            }
+        ]
+    },
+    {
+        "category": "",
+        "data": [
+            {
+                "": "sentiment analysis in Saudi Arabia about distance education during Covid-19"
+            }
+        ]
+    },
+    {
+        "category": "",
+        "data": [
+            {
+                "": "Kain Tradisional Sambas"
+            }
+        ]
+    },
+    {
+        "category": "",
+        "data": [
+            {
+                "": "Image Recognition Task Execution Times in Mobile Edge Computing"
+            }
+        ]
+    },
+    {
+        "category": "",
+        "data": [
+            {
+                "": "REWEMA"
+            }
+        ]
+    },
+    {
+        "category": "",
+        "data": [
+            {
+                "": "REJAFADA"
+            }
+        ]
+    },
+    {
+        "category": "",
+        "data": [
+            {
+                "": "Steel Industry Energy Consumption Dataset"
+            }
+        ]
+    },
+    {
+        "category": "",
+        "data": [
+            {
+                "": "Influenza outbreak event prediction via Twitter data"
+            }
+        ]
+    },
+    {
+        "category": "",
+        "data": [
+            {
+                "": "Turkish Music Emotion Dataset"
+            }
+        ]
+    },
+    {
+        "category": "",
+        "data": [
+            {
+                "": "Maternal Health Risk Data Set"
+            }
+        ]
+    },
+    {
+        "category": "",
+        "data": [
+            {
+                "": "Room Occupancy Estimation"
+            }
+        ]
+    },
+    {
+        "category": "",
+        "data": [
+            {
+                "": "Image Recognition Task Execution Times in Mobile Edge Computing"
+            }
+        ]
+    }
+]

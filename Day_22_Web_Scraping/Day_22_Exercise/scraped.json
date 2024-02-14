@@ -1,0 +1,72 @@
+[
+    {
+        "category": "Community",
+        "Student Body": "37,557",
+        "Living Alumni": "431,000+",
+        "Total Employees": "10,674",
+        "Faculty": "4,309",
+        "Nondegree Students": "1,337",
+        "Graduate & Professional Students": "18,476",
+        "Undergraduate Students": "17,744"
+    },
+    {
+        "category": "Campus",
+        "Classrooms": "848",
+        "Buildings": "343",
+        "Laboratories": "1,481",
+        "Libraries": "13",
+        "Campus Area (acres)": "140"
+    },
+    {
+        "category": "Academics",
+        "Study Abroad Programs": "80+",
+        "Average Class Size": "30",
+        "Faculty": "4,309",
+        "Student/Faculty Ratio": "11:1",
+        "Schools and Colleges": "17",
+        "Programs of Study": "300+"
+    },
+    {
+        "category": "Grant & Contract Awards",
+        "Research Expenditures": "$554.0M",
+        "Sponsored Research Awards": "$645.6M",
+        "BMC Clinical Research Grants (FY22)": "$82M"
+    },
+    {
+        "category": "Undergraduate Financial Aid & Scholarships",
+        "Average Total Need-Based Financial Aid": "$57,237",
+        "Average Need-Based Grant/Scholarship": "$53,029",
+        "Grants & Scholarships (need-based)": "$388.4M",
+        "Grants & Scholarships (non-need-based)": "$26.5M"
+    },
+    {
+        "category": "Student Life",
+        "Community Service Hours": "130,000+",
+        "BU on Social": "new accounts daily",
+        "Cultural & Religious Organizations": "80+",
+        "Community Service & Justice Organizations": "70+",
+        "Academic & Professional Organizations": "140+",
+        "Art & Performance Organizations": "60+",
+        "Student Organizations": "450+",
+        "First-Year Student Outreach Project Volunteers": "400+"
+    },
+    {
+        "category": "Research",
+        "Faculty Publications": "7,000+",
+        "Student UROP Participants": "475+",
+        "Centers & Institutes": "130+"
+    },
+    {
+        "category": "International Community",
+        "Global Initiatives": "300+",
+        "Cultural Student Groups": "60+",
+        "Alumni Countries": "180+",
+        "International Students": "10,000+"
+    },
+    {
+        "category": "Athletics",
+        "Intramural Sports & Tournaments": "12+",
+        "Club Sports": "36",
+        "Varsity Sports": "24"
+    }
+]
