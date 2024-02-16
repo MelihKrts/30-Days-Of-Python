@@ -1,1 +1,4 @@
-/venv /.venv .gitignore
+venv/
+/venv 
+.venv
+gitignore
