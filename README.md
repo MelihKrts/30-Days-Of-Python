@@ -28,3 +28,4 @@
 |21| [Classes and Objects](https://github.com/MelihKrts/30-Days-Of-Python/tree/main/Day_21_Classes_and_Objects)|
 |22| [Web Scraping](https://github.com/MelihKrts/30-Days-Of-Python/tree/main/Day_22_Web_Scraping)|
 |24| [Statistics](https://github.com/MelihKrts/30-Days-Of-Python/tree/main/Day_24_Statistics)|
+|25| [Pandas](https://github.com/MelihKrts/30-Days-Of-Python/tree/main/Day_25_Pandas)|
