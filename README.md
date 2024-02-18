@@ -29,3 +29,4 @@
 |22| [Web Scraping](https://github.com/MelihKrts/30-Days-Of-Python/tree/main/Day_22_Web_Scraping)|
 |24| [Statistics](https://github.com/MelihKrts/30-Days-Of-Python/tree/main/Day_24_Statistics)|
 |25| [Pandas](https://github.com/MelihKrts/30-Days-Of-Python/tree/main/Day_25_Pandas)|
+|26| [Python for Web](https://github.com/MelihKrts/30-Days-Of-Python/tree/main/Day_26_Python_for_Web)|
