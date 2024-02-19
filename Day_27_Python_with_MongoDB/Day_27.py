@@ -7,7 +7,7 @@ from flask import Flask, render_template
 import pymongo
 import os
 
-MONGODB_URI = "mongodb+srv://melihkaratas1281:1vZvJ3471K7j0yFh@30daysofpython.yj12jsx.mongodb.net/?retryWrites=true&w=majority"
+MONGODB_URI = "mongodb+srv://melihkaratas1281:yourpassword@30daysofpython.yj12jsx.mongodb.net/?retryWrites=true&w=majority"
 client = pymongo.MongoClient(MONGODB_URI)
 
 # Creating a Database and Collection
