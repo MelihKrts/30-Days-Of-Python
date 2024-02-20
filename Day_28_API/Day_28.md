@@ -12,6 +12,8 @@
   - [What is an HTTP Method](#what-is-an-http-method)
       - [GET](#get)
       - [POST](#post)
+      - [HEAD](#head)
+    - [PUT](#put)
 - [Bibliography](#bibliography)
 
 <br>
@@ -26,7 +28,7 @@
 ## How do API's Work?
 <p align="justify">The working principle of an API is commonly expressed through the request-response communication between a client and a server. The client is any front-end application that a user interacts with.</p>
 
-![how api works](../image/day_27_api.png)
+![how api works](../image/day_27_api.png "How API WORKS")
 
 <br>
 
@@ -70,7 +72,20 @@
 
 
 #### POST
+<p align="justify">The POST HTTP request method sends data to the server for processing. The data sent to the server is typically in the following form: <br>
 
+- Input fields from online forms.
+  
+- XML or JSON data.
+  
+- Text data from query parameters.
+</p>
+
+#### HEAD
+<p align="justify">The HTTP HEAD method simply returns metadata about a resource on the server.</p>
+
+### PUT
+<p align="justify"><p>
 
 # Bibliography
 - [Altexsoft](https://www.altexsoft.com/blog/what-is-api-definition-types-specifications-documentation/)
@@ -79,3 +94,4 @@
 - [IBM](https://www.ibm.com/topics/api)
 - [Dissertation](https://ics.uci.edu/~fielding/pubs/dissertation/top.htm)
 - [Cloudfare](https://www.cloudflare.com/learning/ddos/glossary/hypertext-transfer-protocol-http/)
+- [TheServerSide](https://www.theserverside.com/blog/Coffee-Talk-Java-News-Stories-and-Opinions/HTTP-methods)
