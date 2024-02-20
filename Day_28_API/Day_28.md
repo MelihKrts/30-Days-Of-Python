@@ -13,7 +13,17 @@
       - [GET](#get)
       - [POST](#post)
       - [HEAD](#head)
-    - [PUT](#put)
+      - [PUT](#put)
+      - [DELETE](#delete)
+      - [TRACE](#trace)
+      - [OPTIONS](#options)
+      - [PATCH](#patch)
+      - [CONNECT](#connect)
+  - [HTTP Response Status Code](#http-response-status-code)
+    - [Informational Responses](#informational-responses)
+    - [Successful Responses](#successful-responses)
+    - [Redirection Responses](#redirection-responses)
+    - [Client Error Responses](#client-error-responses)
 - [Bibliography](#bibliography)
 
 <br>
@@ -84,8 +94,48 @@
 #### HEAD
 <p align="justify">The HTTP HEAD method simply returns metadata about a resource on the server.</p>
 
-### PUT
-<p align="justify"><p>
+#### PUT
+<p align="justify">The HTTP PUT method in used to completely replace a resource identified with a given URL.<p>
+
+#### DELETE
+<p align="justify">The HTTP DELETE method is self-explanatory. After execution, the resource a DELETE operation points to is removed from the server.</p>
+
+#### TRACE
+<p align="justify">The TRACE HTTP method is used for diagnostics, debugging and troubleshotting. It simply returns a diagnostics trace that logs data from the request-response cycle.</p>
+
+#### OPTIONS
+<p align="justify">The server does not have to support every HTTP method for every resource it managers. The HTTP OPTIONS method returns a listing of which HTTP methods are supported and allowed.</p>
+
+#### PATCH
+<p align="justify">The PATH HTTP method, allows for updates of existing resources. It is significantly more efficient, for example, to send a small payload rather than a complete resource representation to the server.</p>
+
+#### CONNECT
+<p align="justify">The connect operation is used to create a connection with a server-side</p>
+
+<br>
+
+## HTTP Response Status Code
+<p align="justify">
+
+- Informational Responses (100 - 199)
+  
+- Successful Responses (200 - 299)
+- Redirection Responses (300- 399)
+- Client Error Responses (400- 499)
+- Server Error Responses (500- 599)
+</p>
+
+### Informational Responses
+<p align="justify">An informational response indicates that the request was received and understood. It is issued on a provisional basis while request processing continues. It alerts the client to wait for a final response.</p>
+
+### Successful Responses
+<p align="justify">This class of status codes indicates the action requested by the client was received, understood and accepted.</p>
+
+### Redirection Responses
+<p align="justify">This class of status code indicates the client must take additional action to complete the request.</p>
+
+### Client Error Responses
+<p align="justify"></p>
 
 # Bibliography
 - [Altexsoft](https://www.altexsoft.com/blog/what-is-api-definition-types-specifications-documentation/)
