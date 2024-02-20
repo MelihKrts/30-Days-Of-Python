@@ -24,6 +24,7 @@
     - [Successful Responses](#successful-responses)
     - [Redirection Responses](#redirection-responses)
     - [Client Error Responses](#client-error-responses)
+    - [Server Error Responses](#server-error-responses)
 - [Bibliography](#bibliography)
 
 <br>
@@ -135,7 +136,14 @@
 <p align="justify">This class of status code indicates the client must take additional action to complete the request.</p>
 
 ### Client Error Responses
-<p align="justify"></p>
+<p align="justify">This class of status code is intended for situations in which the error seems to have been caused by the client</p>
+
+### Server Error Responses
+<p align="justify">The server failed to fulfil a request.</p>
+
+<p align="justify">Response status codes beginning with the digit "5" indicate cases in which the server is aware that it has encountered an error or is otherwise incapable of performing the request.</p>
+
+<br>
 
 # Bibliography
 - [Altexsoft](https://www.altexsoft.com/blog/what-is-api-definition-types-specifications-documentation/)
@@ -145,3 +153,4 @@
 - [Dissertation](https://ics.uci.edu/~fielding/pubs/dissertation/top.htm)
 - [Cloudfare](https://www.cloudflare.com/learning/ddos/glossary/hypertext-transfer-protocol-http/)
 - [TheServerSide](https://www.theserverside.com/blog/Coffee-Talk-Java-News-Stories-and-Opinions/HTTP-methods)
+- [Wikipedia](https://en.wikipedia.org/wiki/List_of_HTTP_status_codes)
