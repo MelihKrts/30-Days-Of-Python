@@ -1,6 +1,49 @@
 # 30 Days Of Python Exercise Solution
+![Banner Image](image/readme_banner.png "30 Days of Python")
 
 # Table Of Contents
+- [30 Days Of Python Exercise Solution](#30-days-of-python-exercise-solution)
+- [Table Of Contents](#table-of-contents)
+- [30 Days Of Python](#30-days-of-python)
+  - [System Required](#system-required)
+- [:information\_source: Info](#information_source-info)
+  - [Day 26 - 29](#day-26---29)
+  - [Day 28](#day-28)
+  - [Day 30](#day-30)
+- [Exercise Topics](#exercise-topics)
+
+# 30 Days Of Python
+<p align="justify">Solutions to the python challange in 30 days repo created by Asabeneh Yetayeh</p>
+
+## System Required
+
+<p align="justify">Some requirements are needed to start this repo and run the code.
+<ul>
+
+<li><a href="https://www.python.org/"> Python</a></li>
+
+<li>Some python modules (pip install module name) can be downloaded and used.</li>
+
+<li> Git </li>
+</ul>
+
+
+
+</p>
+
+# :information_source: Info
+<p align="justify">Some days of the project provide information about exercise;</p>
+
+## Day 26 - 29
+<p align="justify">On the 26th and 29th day, only lecture notes were added for technical reasons. Then codes will be added.</p>
+
+## Day 28
+<p align="justify">On day 28 there is no exercise. You are asked to do research</p>
+
+## Day 30
+<p align="justify">On day 30 there is no exercise.</p>
+
+
 
 # Exercise Topics
 | Day Number | Topics
