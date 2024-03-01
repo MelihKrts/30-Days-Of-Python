@@ -7,8 +7,9 @@
 - [30 Days Of Python](#30-days-of-python)
   - [System Required](#system-required)
 - [:information\_source: Info](#information_source-info)
-  - [Day 26 - 29](#day-26---29)
+  - [Day 26](#day-26)
   - [Day 28](#day-28)
+  - [Day 29](#day-29)
   - [Day 30](#day-30)
 - [Exercise Topics](#exercise-topics)
 
@@ -34,11 +35,15 @@
 # :information_source: Info
 <p align="justify">Some days of the project provide information about exercise;</p>
 
-## Day 26 - 29
-<p align="justify">On the 26th and 29th day, only lecture notes were added for technical reasons. Then codes will be added.</p>
+## Day 26
+<p align="justify">The day name is indicated in the flask main clause. Link for live demonstration.</p>
+<p align="justify"> Day 28: <a href="https://mlhkrts.pythonanywhere.com/">Day 28</a> </p>
 
 ## Day 28
 <p align="justify">On day 28 there is no exercise. You are asked to do research</p>
+
+## Day 29
+<p align="justify">On the 29th day, only lecture notes were added for technical reasons. Then codes will be added.</p>
 
 ## Day 30
 <p align="justify">On day 30 there is no exercise.</p>
