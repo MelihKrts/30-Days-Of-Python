@@ -43,7 +43,7 @@
 <p align="justify">On day 28 there is no exercise. You are asked to do research</p>
 
 ## Day 29
-<p align="justify">On the 29th day, only lecture notes were added for technical reasons. Then codes will be added.</p>
+<p align="justify">The day name is indicated in the flask main clause.</p>
 
 ## Day 30
 <p align="justify">On day 30 there is no exercise.</p>
