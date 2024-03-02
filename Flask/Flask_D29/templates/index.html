@@ -1,0 +1,35 @@
+{% extends 'base.html' %}
+
+{% block head %}
+<title>30 Days of Python - Home</title>
+{% endblock %}
+
+{% block content %}
+<div class="container">
+    <h1>{{name}}</h1>
+    <p>This application clean texts and analyse the number of word, characters and most frequent words in the text.
+        Check it out by click text analyzer at the menu.
+        You need the following technologies to build this web application:</p>
+        
+    <ol class="tech-lists">
+
+        <li>Front end</li>
+
+        <ul>
+            <li class="tech">HTML</li>
+            <li class="tech">CSS</li>
+            <li class="tech">JavaScript</li>
+        </ul>
+
+        <li>Back end</li>
+
+        <ul>
+
+            <li class="tech">Python</li>
+            <li class="tech">Flask</li>
+            <li class="tech">MongoDB</li>
+        </ul>
+
+    </ol>
+</div>
+{% endblock %}

@@ -1,0 +1,26 @@
+{% extends 'base.html' %}
+
+{% block head %}
+
+<title>30 Days Of Python</title>
+
+{% endblock %}
+
+{% block content %}
+<div class="container">
+    <h1>{{name}}</h1>
+    <ul>
+        {% for student in students %}
+        <li>
+            <strong>Name:</strong> {{ student.name }}<br>
+            <strong>Date of Birth:</strong> {{ student.birthyear }}<br>
+            <strong>Country:</strong> {{ student.country }}<br>
+            <strong>City:</strong> {{ student.city }}<br>
+            <strong>Skills:</strong> {{ student.skills }}<br>
+            <strong>Bio:</strong> {{ student.bio }}<br>
+            <strong>Created At:</strong> {{ student.created_at }}<br>
+        </li>
+        {% endfor %}
+    </ul>
+</div>
+{% endblock %}
